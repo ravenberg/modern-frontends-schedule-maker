@@ -1,0 +1,735 @@
+[
+    {
+        "speaker": "Team + Emcees",
+        "title": "OPENING WELCOME",
+        "room": "ADA LOVELACE",
+        "time": "Thu 09:15 - 09:30"
+    },
+    {
+        "speaker": "Niall Crosby",
+        "title": "AG Grid, Behind the Frameworks",
+        "description": "The challenge of supporting multiple frameworks (React, Angular, Vue, Solid) is complex, and this is before appreciating a datagrid is quite possibly the most complex visual component to begin with! Learn how AG Grid, behind the scenes, has come up with a way to support all the frameworks. Hear about the challenges, the solutions, the pain and the gains!",
+        "room": "ADA LOVELACE",
+        "time": "Thu 09:30 - 09:55"
+    },
+    {
+        "speaker": "Jason Mayes Laurence Moroney",
+        "title": "Google AI for JS developers with TensorFlow.js Keynote",
+        "description": "Join Google's AI Lead Laurence Moroney and their Web ML Lead Jason Mayes as they give you the lay of the land of the Google AI ecosystem along with a 101 on how you can leverage machine learning in your web apps via TensorFlow.js to gain superpowers by today's standards. Web ML usage has grown exponentially over the past 3 years by JS developers so it's time to get onboard and inspired with this fast paced keynote that will enable everyone, no matter what your background, up to speed with AI in the web world enabling you to bring your ideas to life faster than ever before. ",
+        "room": "ADA LOVELACE",
+        "time": "Thu 10:00 - 10:40"
+    },
+    {
+        "speaker": "Mike Hartington",
+        "title": "One app, multiple platforms: How Cross Platform Actually Works",
+        "description": "Today's solutions for cross platform development all aim to provide developers a bette way to build their apps. Build your app in a certain way, and you can ship it to multiple targets (iOS, Android, Web, etc) with ease. But not all solutions are created equal, and it can be difficult to understand the benefits of one solution over another.  But it doesn't have to be this way. In this talk we will look at some of the top cross platform technologies, see how they actually work, why you would use one solution, and why you should rethink your perception of what tool is \"the best\".",
+        "room": "ADA LOVELACE",
+        "time": "Thu 10:45 - 11:40"
+    },
+    {
+        "speaker": "Eeva-Jonna Panula",
+        "title": "Learnings from My Accessibility Journey - A Developer's Perspective",
+        "description": "Learning about accessibility is like a journey. You find new things as you go along and learn from every place (or theme) you visit. Like with traveling, you learn tips and tricks you later wish you would have known in the beginning - and that's precisely how it's been with my accessibility journey. In this talk, I will share some of these findings and lessons learned.  After listening to this talk, you'll walk away with more knowledge on how to avoid some of the mistakes I've made during this wonderful journey. You'll also know more about accessibility and how to learn more about it.",
+        "room": "GRACE HOPPER",
+        "time": "Thu 10:45 - 11:25"
+    },
+    {
+        "speaker": "Maxim Salnikov",
+        "title": "Native Web Apps: Are We There Yet?",
+        "description": "There are so many discussions about web VS native apps. Will we get to the point where the Web becomes truly Native for the majority of the platforms? Progressive Web Apps, Project Fugu, WebAssembly & other technologies actively contribute to moving in this direction. In this session, we go through a list of details that make the integration of an application & operating system seamless, and map it to the APIs available for the web platform. With the knowledge of what's available today and what's coming soon, you are empowered to build truly Native Web Apps to deliver the best user experience!",
+        "room": "HEDY LAMARR",
+        "time": "Thu 10:45 - 11:25"
+    },
+    {
+        "speaker": "Bolaji Ayodeji",
+        "title": "Building Reusable UI Components in Isolation",
+        "description": "One of React's most important features is the ability to compose complex user interfaces from small, isolated, and reusable bits of code known as \"components.\" Isolation denotes \"being far apart from everything else,\" yet while developing these \"components,\" they aren't really far away but rely on the dependencies of your project. As your project size increases, this might cause problems when reusing a component that is dependent on a dependency that is not present in the project in which it is reused.  In this talk, Bolaji will demonstrate how to develop, explore different states, and test UI components interactively outside of your application without worrying about project dependencies and requirements. You'll also learn how to use tools like Storybook and Bit to share and manage these components across several projects and apps.",
+        "room": "MARGARET HAMILTON",
+        "time": "Thu 10:45 - 11:25"
+    },
+    {
+        "speaker": "Carly Richmond",
+        "title": "Are They Really Using It? Monitoring Digital Experience to Determine Feature Effectiveness",
+        "description": "Building beloved user applications is a challenging yet rewarding pursuit for us working in technology today. While real user monitoring, or RUM, metrics are added early for external-facing applications, it is often added as an afterthought in the building of applications when building applications for users within organisations. Instead, we rely on anecdotal discussions and review feedback that, for many reasons, can leave us with an incomplete or accurate picture of the adoption of the software we build.  In this talk, I will use my experience in building applications in investment banking to discuss the reasons why obtaining long-term feedback on feature adoption can be difficult to validate. We will also outline how real user monitoring and performance capabilities in tools such as Elastic User Experience or other RUM collectors can help you quantify user experience satisfaction and adoption to ensure we are providing effective experiences for users.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Thu 10:45 - 11:25"
+    },
+    {
+        "speaker": "Jonathan Hillen",
+        "title": "Animating Vue.js with GSAP",
+        "description": "Animations are an easy way to add depth and dimension to an application. There are a lot of animation platforms out there, but in my opinion, GSAP is head and shoulders above the rest. In this presentation we will be discussing adding the Greensock Animation Platform to your Vue.js application and how using it can bring your application to life. Specific demos will be given on how to integrate GSAP into lifecycle hooks, router guards, page transitions, and list generation while using Vue.js.",
+        "room": "MARIE CURIE",
+        "time": "Thu 10:45 - 11:25"
+    },
+    {
+        "speaker": "Erik Rasmussen",
+        "title": "State Machines On The Edge",
+        "description": "Modeling business logic with state machines has numerous benefits, from eliminating bugs caused by impossible states to visualizing the logic to communicate with non-technical shareholders to simply communicating user flow between technical colleagues. In this talk, I'm going to demonstrate, via live coding, how to combine the strengths of Remix and XState to create a checkout flow entirely on the backend. No. JavaScript. Required.",
+        "room": "GRACE HOPPER",
+        "time": "Thu 11:30 - 11:55"
+    },
+    {
+        "speaker": "Liam Hampton",
+        "title": "The Serverless Revolution",
+        "description": "In this talk Liam will cover an array of topic points from the history of enterprise computing to start-up logistics in todays world. From this talk you will understand and learn how technology has transitioned away from the traditional compute power of on premise racks and cloud hosted virtual machines to the event driven world of serverless functions and DevOps practises we see today. Liam will explain how they are currently utilised in todays applications, how he is using them in his daily development, pitfalls to watch out for and how you could be using them too.",
+        "room": "HEDY LAMARR",
+        "time": "Thu 11:30 - 11:55"
+    },
+    {
+        "speaker": "Bruno Perez",
+        "title": "Are we on the path to Inclusive Design 2.0",
+        "description": "As more companies understand the benefits and business advantages of appling the Inclusive Design approach for products and services, I survey the current level of opportunity in this fast-growing field. I present strong cases for moving towards business innovation that is powered by an emerging Inclusive Design 2.0 - with user-centred design principles for product development expanded to keep pace with the constant evolution of trends in data and technology.",
+        "room": "MARGARET HAMILTON",
+        "time": "Thu 11:30 - 11:55"
+    },
+    {
+        "speaker": "Thomas Steiner",
+        "title": "Fugu APIs at the example of the SVGcode app",
+        "description": "In this talk, I will show at the example of the open-source application SVGcode (https://svgco.de/) what the modern Web is capable of. In 2022, Web apps can be installed onto the device like regular platform-specific apps and blend in with the rest of your apps naturally. Web apps can become file handlers—or even the default file handler—for files, so you can doubleclick a file in your file explorer and the Web app in charge will handle it. Web apps can tightly integrate with the operating system, so you can share files to and from them. And of course Web apps can read and write texts and images to the operating system's clipboard. At the end of this talk, you will walk out with a buzzing head full of ideas, but fret not, I will leave you with enough pointers for further reading so you can look up the details after the talk from the comfort of your home.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Thu 11:30 - 11:55"
+    },
+    {
+        "speaker": "Luca Casonato",
+        "title": "How we made Deno the fastest JavaScript runtime",
+        "description": "Since inception we’ve had the goal of making Deno the fastest server side JS runtime. Full stop. Let’s talk about why and how.",
+        "room": "MARIE CURIE",
+        "time": "Thu 11:30 - 11:55"
+    },
+    {
+        "speaker": "Natalia Venditto",
+        "title": "e2e fully distributed JavaScript systems design",
+        "description": "During this talk we will talk about the considerations for designing fully distributed and effective API first JavaScript architectures, without sacrificing great DX and losing our minds!",
+        "room": "ADA LOVELACE",
+        "time": "Thu 11:45 - 12:25"
+    },
+    {
+        "speaker": "Facundo Giuliani",
+        "title": "Don't take it personally, it is personalization",
+        "description": "\"Personalization\" is right now one of the hottest buzzwords in the development world. Marketers, developers, and content creators evaluate the possibilities and alternatives to handle custom scenarios while offering powerful experiences to the users. Let's talk about personalization, the benefits, the challenges, and how we can manage and offer personalized experiences. We will see code examples using some of the features introduced in Next.js 12, the newest version of the framework.",
+        "room": "GRACE HOPPER",
+        "time": "Thu 12:00 - 12:25"
+    },
+    {
+        "speaker": "Austin Gil",
+        "title": "What does it takes to make a div?",
+        "description": "A journey following your code from the editor through build processes into deployment pipelines out to the public internet and finally rendered in a user's browser.  With the advent of frameworks, build tools, and deployment services, the distance between developers and browsers is growing. Developer Experience has improved, but with these abstractions, we've introduced layers of obscurity.  In this talk, we'll take a deep dive into what happens after you hit save. What processes take place to get your code transformed for production, how does it get deployed, and the steps required before a div can get to a user.",
+        "room": "HEDY LAMARR",
+        "time": "Thu 12:00 - 12:25"
+    },
+    {
+        "speaker": "Oyemade Oyemaja",
+        "title": "Frontend at Scale",
+        "description": "In this talk, Oye will offer valuable tips about architecting your front-end application to handle enterprise-level scaling using tested and trusted best practices from Angular experts.",
+        "room": "MARGARET HAMILTON",
+        "time": "Thu 12:00 - 12:25"
+    },
+    {
+        "speaker": "Catalin Pit",
+        "title": "Building a Data API for modern frontend with GraphQL",
+        "description": "This talk will showcase how to build a powerful backend for your frontend with GraphQL and Hasura. Hasura gives you a GraphQL & REST API with built-in authorization on your data.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Thu 12:00 - 12:25"
+    },
+    {
+        "speaker": "Francesco Ciulla",
+        "title": "Introverted Developers on Social Media",
+        "description": "in this talk, I will talk about my experience as an introverted developer, from super skeptical about social media to Developer Advocate, a profession that involves a lot of content creation and it requires high communication skills.  I will share everything I know and have learned on my skin so you can use Social media and increase your communication skill, open up to many new opportunities and, why not, find some friends on the internet.  At the end of this talk, you will feel motivated to work on your social presence, even (and especially) if you are introverted.  Target Audience: every Developer, especially introverted, who wants to use Social Media to get more opportunities",
+        "room": "MARIE CURIE",
+        "time": "Thu 12:00 - 12:25"
+    },
+    {
+        "speaker": "Matteo Collina",
+        "title": "The rise of Backendless",
+        "description": "You want to build a new application, and you need to store data in the cloud. What technologies would you pick? Where would you deploy this API? Make vs. Buy? Initially, you need a database exposed via a web-accessible API with users and authentication support. Thanks to the new fantastic breed of \"cloud databases,\" we can now build APIs at the speed of light. After a few months of intense development, what gave you joy has become tech debt: your database schema is the \"center\" for all your API, and adding things is complex and problematic. Should it be?",
+        "room": "ADA LOVELACE",
+        "time": "Thu 12:30 - 12:55"
+    },
+    {
+        "speaker": "Anna Migas",
+        "title": "The secret web performance metric no one is talking about",
+        "description": "After working for over a year on a project directed towards emerging markets (namely Nigeria and Kenya), I came to realise that the popular web performance metrics are all centred around a specific type of person: someone who is used to the fast and reliable connection. In my talk I want to share my experience on how to look at the overall web performance with the new metric in mind - user’s patience. I have a set of tips and tricks how to prepare for the scenario where the loading time is going to be an issue.",
+        "room": "GRACE HOPPER",
+        "time": "Thu 12:30 - 12:55"
+    },
+    {
+        "speaker": "Pratham Kumar",
+        "title": "Web has the potential to improve the planet.",
+        "description": "Web has the power to uplift society and provide equitable opportunity for all. I'll go through the retrospective of the web and how web3 enables creators to get what they actually deserve.  I'll cover how web3 is the combination of web1 and web2. By offering openness, ownership, and meritorious rewards, Web3 will foster strong public trust.",
+        "room": "HEDY LAMARR",
+        "time": "Thu 12:30 - 12:55"
+    },
+    {
+        "speaker": "Stephen Cooper",
+        "title": "Automatically maintaining thousands of code demos across multiple framework variations",
+        "description": "At AG Grid, we maintain thousands of code demos, with the same demo provided in Angular, React, Vue, Typescript and Vanilla JS.  How do we do it? We automate.  This session explains how to use Typescript to parse code into an Abstract Syntax Tree (AST), how to traverse the AST to build a code model and finally how to write framework code generators.  You may not need to generate thousands of examples but being able to parse and generate code with Typescript will unlock many possibilities.",
+        "room": "MARGARET HAMILTON",
+        "time": "Thu 12:30 - 12:55"
+    },
+    {
+        "speaker": "Scott Spence",
+        "title": "SvelteKit and the Content Layer",
+        "description": "An overview of the past the present and the future of content on the web with SvelteKit placed to make the most of what it has to offer.  This talk will detail content on the web in its infancy how the modern CSS was born and where that has taken us up to in the present. There’ll be an introduction to Svelte and SvelteKit and how they can leverage what the modern web has to offer.  There will be code examples of how to get started with modern GraphQL clients for use in SveltKit and how to use them with SvelteKit.  We will discuss the features SveltKit has to offer and how to use them in a secure way so as not to expose sensitive credentials on the bowser (client). ",
+        "room": "KATHERINE JOHNSON",
+        "time": "Thu 12:30 - 12:55"
+    },
+    {
+        "speaker": "Ruben Casas",
+        "title": "Monolith to Micro-Frontends",
+        "description": "Many companies worldwide are considering adopting Micro-Frontends to improve business agility and scale, however, there are many unknowns when it comes to what the migration path looks like in practice.  In this talk, I will discuss the steps required to successfully migrate a monolithic frontend application into a more modular decoupled frontend architecture.",
+        "room": "MARIE CURIE",
+        "time": "Thu 12:30 - 12:55"
+    },
+    {
+        "speaker": "Michelle Azzopardi",
+        "title": "Microsoft ❤️ Developers",
+        "description": "Your languages, your tools, any platform. At Microsoft, we care deeply about empowering every developer in every organization & community to achieve more. In this session, Michelle will share some of the cutting-edge technologies in the Microsoft Developer toolchain that web and frontend developers can use to spend more time writing amazing code and less time worrying about infrastructure - in other words, doing more with less. Some of the Microsoft products we'll cover include Visual Studio Code, GitHub, Power Platform and Microsoft Azure. Michelle will also share the latest on our commitment to technical skills, including how you can learn more about these technologies through our Cloud Skills Challenge, and how we can help you achieve more, get that promotion or new role, and how you can get move involved with technical communities near you!",
+        "room": "ADA LOVELACE",
+        "time": "Thu 14:00 - 14:25"
+    },
+    {
+        "speaker": "Ben Bayard",
+        "title": "Migrating millions of lines of code to TypeScript (with no downtime)",
+        "description": "Stripe has many large JavaScript code bases such as Stripe.js, the Dashboard and many internal services. In 2016, Stripe decided to adopt the Flow type system for JavaScript to maintain high productivity while reducing run-time errors. Flow served Stripe well for many years but as we scaled, we realized that TypeScript was a better fit for our performance and tooling needs. The JavaScript Infrastructure team was tasked with figuring out how to migrate all 10 million lines of Flow code to TypeScript. In this talk, I will detail our decision-making process around the migration, the migration process itself, and how the skills we learned along the way may be able to help you the next time you need to switch programming languages.",
+        "room": "ADA LOVELACE",
+        "time": "Thu 14:30 - 15:10"
+    },
+    {
+        "speaker": "Harry Roberts",
+        "title": "Optimising Largest Contentful Paint",
+        "description": "Since Google announced their Core Web Vitals (CWV) initiative, being fast is more important than ever. However, despite being by far the easiest CWV to monitor, debug, and optimise—in both the lab and field—Largest Contentful Paint (LCP) is still the one that most websites struggle with.  In this very practical talk, we’ll look at what exactly comprises LCP, how we might be working against ourselves, and how to make opportunistic optimisations to get ourselves back in the green (and beyond).  And even if none of those terms meant anything to you, don’t worry! You’ll leave this talk fully equipped to go back to your own project and clients and make all the improvements they’ll need. Get ready to ask for a pay rise.",
+        "room": "GRACE HOPPER",
+        "time": "Thu 14:30 - 15:10"
+    },
+    {
+        "speaker": "Kenneth Christiansen",
+        "title": "Beyond the web of today",
+        "description": "Progressive Web Apps (PWAs) are becoming increasingly popular way to develop desktop apps, and to unleash the full potential of the Intel platform, Intel is enhancing the abilities of the Web to meet the needs of developers and go beyond what is possible today.​  At Intel we work on the forefront of innovation as our hardware roadmaps are defined years ahead of release. This means that we need to make sure that the web platform takes advantage of new hardware capabilities as they are released or shortly after. This ranges from enabling new form factors to taking advantage of hardware accelerators.  This session illustrates new web capabilities driven by Intel that exposes our unique platform value, introduces new experiences and allows developers to delight users with features never seen before on the web.  We will introduce new AI powered Intelligent Collaboration experiences such as hardware driven background blurring, face detection, face framing, lighting correction, eye-gaze correction and much more. We will also look at Web Neural Network, which enables access to fast neural network and machine learning capabilities, as well as Compute Pressure, a new API enabling better user experience and bringing adaptive compute capabilities to the client, just like adaptive streaming has improved streaming use-cases by adapting to live network conditions.",
+        "room": "HEDY LAMARR",
+        "time": "Thu 14:30 - 15:10"
+    },
+    {
+        "speaker": "Sami Jaber",
+        "title": "It's time to de-fragment the Web",
+        "description": "Over the past few years, the number of web frameworks available to us has exploded. In some ways, the breadth of choice is a clear win for our ecosystem. However, for many of us, it also comes with harsh drawbacks:  - Have you ever used a popular open-sourced component built for framework A, and wished it existed in framework B? What about a design system library? - Does your company have frontends built in different frameworks, and your web teams are frustrated about the wasted hours needed to achieve a consistent design system? - Does your team build SDKs for web frameworks, and must manually re-write them for each framework?  The solution to all 3 of these problems exists today. To fully understand it, we must first examine today’s web frameworks, re-think what a component should look like, and introduce a new Intermediate Representation of our components. This is what we have done at Builder.io when we created Mitosis, and we’re excited to share it with everyone.",
+        "room": "MARGARET HAMILTON",
+        "time": "Thu 14:30 - 15:10"
+    },
+    {
+        "speaker": "Edward Wong",
+        "title": "Adopting Next.js - A Beginner’s Tale",
+        "description": "Hear about my experiences migrating a “React UI + Node BFF” to Next.js , as a complete Next.js newbie. The story will cover things I learnt around testing, routing and server side rendering. This talk is primarily aimed at anyone interested in Next.js and has experience working with React. Experts in Next.js are very welcome to attend to help enlighten us all further",
+        "room": "KATHERINE JOHNSON",
+        "time": "Thu 14:30 - 15:10"
+    },
+    {
+        "speaker": "Patrick Brosset",
+        "title": "Building integrated desktop experiences with PWA",
+        "description": "Does building native apps on desktop operating systems have to be frustrating and cost a fortune? Can't we just use the web to create native-like experiences on desktop?  In this talk, we'll see how PWAs are revolutionizing the way we build and distribute highly capable apps on desktop OSes.  We'll take a look at a demo and deep dive into code examples showing how to create a deeply integrated and native-like experience. With this talk, you'll feel excited about the future of the Web and motivated to build your next app.",
+        "room": "MARIE CURIE",
+        "time": "Thu 14:30 - 15:10"
+    },
+    {
+        "speaker": "Daniel Roe",
+        "title": "Building for the Edge with Nuxt 3",
+        "description": "We'll take a tour of Nuxt 3, creating, building and deploying a real, live-coded app to a serverless environment.  We'll talk about how changing requirements in today's serverless world require frameworks to change, and how that makes a difference for UX and performance.  Along the way, we'll also explore how Nuxt 3 makes developer life easier, some cool new features from the CLI and available within nitropack, the new rendering framework designed for the edge, plus a sneak peak of what's coming next.",
+        "room": "ADA LOVELACE",
+        "time": "Thu 15:15 - 15:55"
+    },
+    {
+        "speaker": "Filip Rakowski",
+        "title": "How composability is changing the way we write commerce storefronts?",
+        "description": "In the last years, the eCommerce landscape has been going through a real paradigm shift. For many years we used to build eCommerce shops using monolithic platforms written in backend technologies like PHP or Java.  Shift Is happening away from platform-centric commerce, toward customer centric mobile commerce. The most innovative companies have already moved away from legacy platforms toward new commerce technology that prioritizes the customer experience.  Because they understand customer experience drives conversion, and conversion pays the bils  The current paradigm shift is favouring using multiple best-of-breed vendors covering smaller functionalities instead of leveraging all features from your eCommerce platform. Thanks to that the technology is specifically tailored for your use cases  During this talk I want to introduce the changes happening now in the eCommerce space and how they are influencing the way we build frontends these days",
+        "room": "GRACE HOPPER",
+        "time": "Thu 15:15 - 15:55"
+    },
+    {
+        "speaker": "Jay Phelps",
+        "title": "Under [Back] Pressure",
+        "description": "Backpressure—resistance opposing the desired flow of data through your application—impacts nearly every piece of software. Front-end, back-end. From massive scale at Netflix, to death by a thousand cuts in seemingly simple apps. Backpressure is something you probably have struggled with many times, without even recognizing it.  In this talk, we'll discover what backpressure really is and most importantly the strategies you can apply to deal with it.",
+        "room": "HEDY LAMARR",
+        "time": "Thu 15:15 - 15:55"
+    },
+    {
+        "speaker": "Roy Derks",
+        "title": "GraphQL as Data Layer for Your UI",
+        "description": "Frontend applications are getting more and more complicated, often delivering far more than just a UI. With this growing complexity comes a growing need for knowledge from the developers creating it, as they have to deal with matters like state-management, authorization, routing and more. In this talk, I'll show you how to use GraphQL to create a data layer for your application, that exists between your frontend and your backend.",
+        "room": "MARGARET HAMILTON",
+        "time": "Thu 15:15 - 15:55"
+    },
+    {
+        "speaker": "Zachary Powell",
+        "title": "Using Communication APIs to enhance your UX (and reduce notifications!)",
+        "description": "In a world where mobile users are bombarded with notifications at every moment of the day simply sending notifications has become a terrible user experience. Often notifications are completely ignored by the user and swiped away before they are read. So how can we ensure that users are notified about important events and still make sure they have a personal and enjoyable experience?  We will take a brief look at the history of notifications within Android, how they are presented to users, and try to understand why users are less interested in notifications now more than ever. Knowing this how can we more effectively communicate with our users? Taking what we have learned we can look towards new options like communication APIs and explore several scenarios that show how these APIs can build truly useful interactions with users.  From this talk, you will come away with a better understanding of how communication APIs work, and how they can be used to create interesting and new user experiences. How you might go about creating an interactive automated conversation which could easily be integrated into your application or carried out externally via SMS, WhatsApp or Facebook Messanger. ",
+        "room": "KATHERINE JOHNSON",
+        "time": "Thu 15:15 - 15:55"
+    },
+    {
+        "speaker": "Francesco Leardini",
+        "title": "Wait...can my browser do that??",
+        "description": "We have new powerful instruments to leverage current web apps and provide a richer experience to our users. With the aim of modern web APIs, it is possible to design completely new functionalities and explore unique technological combinations, changing the way we develop and interact with web apps. We can directly use hardware devices and just through our browser! Let's explore some of the most exciting APIs and see how we can combine them to unlock new scenarios and give superpowers to our web apps.",
+        "room": "MARIE CURIE",
+        "time": "Thu 15:15 - 15:55"
+    },
+    {
+        "speaker": "Mark Thompson",
+        "title": "Making Your Cross-Platform Dreams Come True with the Mobile Web",
+        "description": "The modern web is ready to meet your cross-platform mobile needs. Find out why the line between native & mobile web isn’t as clear as it used to be.  Join Mark (Techson) Thompson on a journey to find a scalable production ready solution for your cross platform mobile needs with modern web technology. In this session he’ll explore how to take a web app from the browser to mobile devices that will make the experience indistinguishable from native for end-users while saving developers time and resources.",
+        "room": "ADA LOVELACE",
+        "time": "Thu 16:30 - 17:10"
+    },
+    {
+        "speaker": "Alex Russell",
+        "title": "A Management Maturity Model for Web Performance",
+        "description": "Despite advances in browser tooling, automated evaluation, lab tools, guidance, and runtimes, teams I've worked with consistently struggle to deliver minimally acceptable performance with today's popular frameworks. This is not a technical problem per se — it's a management issue, and one that teams can conquer with the right frame of mind and support.  This session presents a model for how teams can understand their location on the journey to excellent web performance.",
+        "room": "GRACE HOPPER",
+        "time": "Thu 16:30 - 17:10"
+    },
+    {
+        "speaker": "Sam Bellen",
+        "title": "No way, JOSE!",
+        "description": "Is your first thought when thinking about cryptography, “nope, that’s not for me!”? There’s no need to. When explained with simple examples, you can see the basics are not that complicated. The Javascript Object Signing and Encryption, or JOSE for short is a framework that helps us deal with encryption. It describes ways to securely transfer data either signed (JWS) or encrypted (JWE). Let’s take a leap of faith and explore the wonderful world of cryptography together, shall we?  In this talk, I will try to explain the basics of encryption and hashing through simple examples. We’ll look into how the JOSE standard can help us with encrypted content on the web using JSON Web Encryption (JWE) and JSON Web Keys (JWK). The audience does not need any specific knowledge about cryptography as this talk will go through the basics. Some JavaScript knowledge can be useful but not necessary as code examples will be simple and explained.  Why? The times when websites were just simple pieces of information is long gone. These days the web handles more sensitive data than ever before. To securely handle this data, we sometimes need to hash, encrypt or sign it. Sure there are a million tools, libraries and pieces of software that handle this for you, but knowing the basics can certainly come in handy! ",
+        "room": "HEDY LAMARR",
+        "time": "Thu 16:30 - 17:10"
+    },
+    {
+        "speaker": "Martin Thwaites",
+        "title": "Making Sense of OpenTelemetry in Blazor Apps",
+        "description": "Blazor is the new server-side web framework in .NET, and being used in a lot of Line of Business applications. History has taught us that applications can get unweildy and then slow over time, especially those line of business applications. Let's see if we can make sure that doesn't happen this time.  In this talk we'll go through strategies for understanding using OpenTelemetry in Blazor, how we can implement and how we can use it understand the performance of our applications.  You'll come away from this talk with some actionable things you can do today in your Blazor applications to ensure you don't fall into the performance trap so many have done before.",
+        "room": "MARGARET HAMILTON",
+        "time": "Thu 16:30 - 17:10"
+    },
+    {
+        "speaker": "Jo Franchetti",
+        "title": "Serverless, WebSockets and scaling. Oh my!",
+        "description": "Serverless WebSockets sounds like a bit of a contradiction. Serverless implies that we’re not managing servers ourselves, they’ve been abstracted away for our convenience and WebSockets allow us to communicate between a ‘client’ and a ‘server’, so what happens when that server is ‘serverless’?! How can the connection be maintained without spiralling costs?  We choose serverless architectures because of their ease of scaling with demand, but if our demand is high, how do we manage our Websockets connections, which are notoriously difficult to manage at scale?  This talk will go over an introduction to serverless architectures and why we love them, an introduction to websockets and their fortes and foibles and how to build fully serverless realtime features into your apps.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Thu 16:30 - 17:10"
+    },
+    {
+        "speaker": "Waller Goble",
+        "title": "Gotta Go FAST: Use Web Components with FAST",
+        "description": "FAST is a collection of technologies built on Web Components and modern Web Standards. In this talk we'll go over what FAST provides you to build the frontends of the future.",
+        "room": "MARIE CURIE",
+        "time": "Thu 16:30 - 17:10"
+    },
+    {
+        "speaker": "Dylan Beattie",
+        "title": "It's So Shiny! A Pure JavaScript Ray-Tracer",
+        "description": "It's hard to imagine a world without computer generated imagery. Films, television, games, art, advertising... CGI gives artists, designers, and film-makers the tools to bring fantastic fictional worlds to life. And while it wasn't all that long ago that rendering photorealistic images required a supercomputer, today we can do it right in our browser.  In this session, Dylan Beattie will explain the principles behind ray-tracing, the technique behind most modern computer graphics. - and then, using modern JavaScript APIs like web workers, clamped arrays and ES modules, we'll create a pure JavaScript ray tracer that runs directly in your browser. We'll learn how to simulate lighting, shading, reflection, and visual effects to create photo-realistic scenes, we'll dust off some gnarly mathematics that you probably haven't seen since high school and find out that it's actually pretty useful after all, and we'll create a whole lot of pictures of shiny things.",
+        "room": "ADA LOVELACE",
+        "time": "Thu 17:15 - 18:10"
+    },
+    {
+        "speaker": "Luca Mezzalira",
+        "title": "Micro-Frontends in AWS",
+        "description": "Distributed architectures have helped several organizations to scale and create the agility needed to help the business evolving in different directions. Many are familiar with microservices, but on the frontend, since 2016, we started to see a revolution that is getting bigger and bigger every year. In this talk I cover how to build a server-side rendering application in AWS using Serverless services, helping every team to maintain their independence and providing great performance to the customers",
+        "room": "GRACE HOPPER",
+        "time": "Thu 17:15 - 18:10"
+    },
+    {
+        "speaker": "Omer Rosenbaum",
+        "title": "Documentation is Broken: Code-Coupled Docs for Modern Systems",
+        "description": "Systems today are growing in complexity whether it's the infrastructure, multiple languages in use, distributed and high-scale design patterns such as microservices and much more. All of this leads to knowledge silos that developers run into when handling code areas they’ve never encountered before. This includes anything from onboarding into a new engineering organization, debugging or maintaining code they haven’t written, doing code reviews and many other common tasks.  However, documentation is fundamentally broken––and the way around this has been to either throw engineers into the deep end or to constantly be in a manual and Sisyphean maintenance process that is completely decoupled from the code.  In this talk I’d like to dive into the deep end on a new way of thinking about documentation - where it is continuous and code-coupled documentation. Developers deserve documentation that is easy to maintain, updates with code changes automatically or flags for human intervention, enables you to find the docs when you need them most - right inside your developer context and workflows (read: your IDE of choice), all this is possible and we’ll show you how.",
+        "room": "HEDY LAMARR",
+        "time": "Thu 17:15 - 17:40"
+    },
+    {
+        "speaker": "Shai Reznik",
+        "title": "Qwik And The Future Of Web Development",
+        "description": "Wow… that’s a big statement… really Shai? How can a technology which is still in Beta be considered \"the future\"?  Well.. this statement is based on a research and thorough analysis of the past 26 years of web development, the recurring patterns that affected the transition between web technologies and the current trends and direction things are going towards.  All signs show that we’re at the beginning of a new generation of web frameworks.. The change is coming, heck, it has already begun... and based on how the future will look like, Qwik is years ahead in making it a reality now.  Qwik is a new type of framework that enables developers to create fully interactive JS apps of any scale that load instantly with no extra effort.  So what are the interesting patterns I discovered that nobody else talks about? what will be the mainstream way we'll develop in the future? why am I wearing a weird sweater?  Join me in this talk to find out... (and to make fun of my weird sweater...;)  Shai Reznik Your Web Development Investment Analyst :) ",
+        "room": "MARGARET HAMILTON",
+        "time": "Thu 17:15 - 17:40"
+    },
+    {
+        "speaker": "Chris Reddington",
+        "title": "Passwordless deployments to the cloud with GitHub Actions",
+        "description": "Discovering passwords in our codebase is probably one of our worst fears as a developer. But, what if you didn't need passwords at all? Join Chris, as he explores how you can use OpenID Connect to trust your cloud provider (such as AWS, Azure and GCP), enabling you to deploy easily, securely and safely.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Thu 17:15 - 17:55"
+    },
+    {
+        "speaker": "Tejas Kumar",
+        "title": "Doing Data as a Frontend Developer",
+        "description": "Web devs are often confused about data. What database do we choose? What are the tradeoffs between NoSQL and MySQL? This talk answers these questions and gives web developers DBA-level skills to help them build with data reliably.  As engineers, we often face a lot of decisions around databases because this is something we want to get right from the shaft.  This talk breaks down everything one would need to consider around databases, including Relational vs. Non-Relational, Scaling databases, Failover, and other topics.  After listening to this talk, developers, especially frontend developers, should leave feeling much more confident about database topics.",
+        "room": "MARIE CURIE",
+        "time": "Thu 17:15 - 18:10"
+    },
+    {
+        "speaker": "Colin Sidoti",
+        "title": "Speed run! Build a B2B SaaS in 25 minutes with Clerk",
+        "description": "In 25 minutes, we'll build all the boilerplate for a B2B SaaS, including: * Sign up * Sign in * User Profiles (including profile image uploads, 2fa, active device management) * Create Organization flow * Invite organization members flow * Organization Profile to manage members and roles  This will be a production ready app, and we'll even pick custom styling during the talk. We'll use Clerk's React Components to do most of the heavy lifting.",
+        "room": "HEDY LAMARR",
+        "time": "Thu 17:45 - 18:10"
+    },
+    {
+        "speaker": "James Quick Amy Dutton",
+        "title": "Live Episode of Compressed.fm",
+        "description": "Amy Dutton and James Quick are the hosts of the [Compressed.fm](http://compressed.fm/) podcast and want you to take part in a live episode! This session will be unscripted and more interactive than the typical conference talk. Join this live episode of Compressed.fm to ask the hosts questions, share your own experiences, and play a few games along the way.",
+        "room": "ADA LOVELACE",
+        "time": "Thu 18:15 - 18:55"
+    },
+    {
+        "speaker": "Team + Emcees",
+        "title": "OPENING / WELCOME",
+        "room": "ADA LOVELACE",
+        "time": "Fri 09:15 - 09:30"
+    },
+    {
+        "speaker": "Kent C. Dodds",
+        "title": "The Web's Next Transition",
+        "description": "The web. What started as a document sharing platform has evolved into an application platform. The web has been through a number of transformations over the years. From static HTML files to dynamic server-generated HTML responses. Then to REST or GraphQL APIs consumed by JavaScript-heavy clients with the Jamstack. The web is entering a completely new transformation. Modern infrastructure and techniques have changed the rules of what it means to make an excellent user experience. In this new future, what's old is new and what's modern is lacking.  In this keynote, Kent C. Dodds will show you how this transformation will impact your user experience, your development productivity, and your business goals. The future of the web is distributed. It's faster. It's cheaper. It's exciting. Kent will show you what you can do to stay in front of it (and no, it's not web3).",
+        "room": "ADA LOVELACE",
+        "time": "Fri 09:30 - 09:55"
+    },
+    {
+        "speaker": "Mana Peirov",
+        "title": "AG Charts, Behind the Scene Graph",
+        "description": "AG Charts is the only charting library that integrates into an advanced datagrid like AG Grid. Learn about how we built a world class charting library that solves key charting challenges and learn how to seamlessly create powerful data analysis visuals for your applications.",
+        "room": "ADA LOVELACE",
+        "time": "Fri 10:00 - 10:25"
+    },
+    {
+        "speaker": "Juri Strumpflohner",
+        "title": "Monorepos - The Benefits, Pitfalls and Importance of Tooling Support",
+        "description": "Monorepos have been around for a while but only recently gained popularity in the frontend community. Many developers are being confronted with them now and end up overwhelmed by the terminology and tooling. What are monorepos? Is it just about code colocation? Do I even need one, or is it a large enterprise / corporate thing? Monorepos come with many benefits but also a lot of challenges. Easy incremental adoption & getting started quickly are just one aspect. Maintaining a healthy monorepo in the long run and keeping it growing and beneficial is a whole other task.  But luckily, there's tooling that can support you. In this talk, we're going to bring some clarity into the field of monorepos, what they are, why you might want to use one, and how to set them up to be successful in the long run.",
+        "room": "ADA LOVELACE",
+        "time": "Fri 10:30 - 10:55"
+    },
+    {
+        "speaker": "Jessica Sachs",
+        "title": "Cypress Component Testing: A Component-driven Approach",
+        "description": "Since Cypress's release in 2017, the end-to-end testing landscape has gotten a lot easier to navigate! End-to-end tests are great and necessary, however they're the LAST line of defense. A great development workflow gives fast feedback, and now with the new release of Cypress 10.0, all of the power of end-to-end testing is available at the *Component* level. In this talk, you will learn how to get started with Cypress \"CT\" (Component Testing) and some best practices to start writing component tests in your applications.",
+        "room": "GRACE HOPPER",
+        "time": "Fri 10:30 - 11:10"
+    },
+    {
+        "speaker": "Nico Martin",
+        "title": "Beyond the browser – how to talk with robots",
+        "description": "With Progressive Web Apps and the Project-FUGU, the web is increasingly becoming a full-fledged platform for complex applications. But what has been missing for a long time is the possibility to communicate with devices in the periphery. With WebBluetooth, WebUSB and a whole bunch of new APIs, this gap has now been closed, which makes it possible to interact with light bulbs, fitness trackers, experimental input devices or even DIY toy cars directly via a web application. Sounds pretty cool, and it is. But those who are used to open and transparent transmission protocols will inevitably come up against a few hurdles - the story of a frontend developer dipping his toes into the IOT world. ",
+        "room": "HEDY LAMARR",
+        "time": "Fri 10:30 - 11:10"
+    },
+    {
+        "speaker": "Kajetan Świątek",
+        "title": "Gentle introduction to SolidJS",
+        "description": "SolidJS has brought a lot of attention lately in the web world. It makes a solid (pun intended) competition to the most popular web frameworks, and not without a reason. But I won’t spoil it for you, you have to see for yourself!  This talk serves as a gentle introduction to SolidJS. During the event, you’ll hear about basic concepts behind the framework and what makes it stand out - all based on a real-world example of a small feature that’ll be live-coded in front of you.",
+        "room": "MARGARET HAMILTON",
+        "time": "Fri 10:30 - 11:10"
+    },
+    {
+        "speaker": "Andrea Wu",
+        "title": "Building Apps from Scratch with Firebase",
+        "description": "Building an app from scratch is often daunting, as there are many moving parts and factors to consider. With Firebase, which is Google's mobile and web app development platform, you'll have many different products to help you build and run successful apps, regardless of the platform (web, Android, iOS, Unity, etc) you’re using. Come learn how various Firebase products, such as Authentication, Firestore, Storage, Cloud Functions, Machine Learning, Hosting, and Cloud Messaging can support building a new app with ease and abstract away infrastructure management to allow focusing on users!",
+        "room": "KATHERINE JOHNSON",
+        "time": "Fri 10:30 - 11:10"
+    },
+    {
+        "speaker": "Amanda Martin Emmy Cao",
+        "title": "Building Complex Web Applications on Low Code Platforms: Myths and Reality",
+        "description": "Can developers fall in love with low code?  In this session we will explore the benefits and tradeoffs of the low code movement from the perspective of developers. Although low code adoption is growing rapidly now more than ever, it remains highly controversial. We’ll uncover the source of low code myths and empower developers to take advantage of a new trend in low code platform development we are calling code first.",
+        "room": "MARIE CURIE",
+        "time": "Fri 10:30 - 11:10"
+    },
+    {
+        "speaker": "Jeremy Meiss",
+        "title": "Demystifying DevOps and CI/CD",
+        "description": "While it seems that every week new terms appear to describe DevOps tools, segments, ideas, practices, etc., are they really new? And what is DevOps, anyways? In this talk Jeremy will first break down DevOps, its history, and why it matters. Then he'll dive deeper into Continuous Integration and Continuous Deployment (CI/CD) concepts, and why it can be the key to becoming a high performing team.",
+        "room": "ADA LOVELACE",
+        "time": "Fri 11:00 - 11:55"
+    },
+    {
+        "speaker": "Homer Gaines, CPACC",
+        "title": "The Four Principles of Accessibility",
+        "description": "While many in the design community are aware of inclusivity and accessible design practices, the reasons are still not understood. My talk walks the listener through the WCAG 2.1 and explains how the four principles, collectively referred to as POUR, apply to product design and development. These four principles specifically target areas where users have trouble accessing digital content. The goal is to help product teams understand how to think about and approach accessibility so they can build products that enable independence.",
+        "room": "GRACE HOPPER",
+        "time": "Fri 11:15 - 11:55"
+    },
+    {
+        "speaker": "Hidde de Vries",
+        "title": "It's the markup that matters",
+        "description": "As web developers, a large part of what we can do to improve the accessibility of our sites and apps, is in markup. In this talk, you’ll learn how the markup we write impacts the Document Object Model (DOM) and Accessibility APIs. We’ll look at specific examples and how to optimise them for end users. Lastly, we’ll peak into upcoming changes: how will the Accessibility Object Model (AOM) help us in the future?",
+        "room": "HEDY LAMARR",
+        "time": "Fri 11:15 - 11:55"
+    },
+    {
+        "speaker": "Manu Martínez-Almeida",
+        "title": "Qwik, the O(1) web framework",
+        "description": "Next generation of frameworks will talk about concepts such as resumable, progressive, partial, edge-optimized… what does all that mean and why does it matter?  At Builder, we are building Partytown and Qwik, a new stack that delivers zero blocking JS with instant user interactivity and built in reactivity.  Qwik sites does NOT hydrate, lazy loading is fully automatic, and data flows fully reactive without downloading any JS.  This paradigm shift aims to build extremely complex applications that scale without performance degradation and negative trade offs of developer experience. ",
+        "room": "MARGARET HAMILTON",
+        "time": "Fri 11:15 - 11:55"
+    },
+    {
+        "speaker": "Mark Erikson",
+        "title": "Modern Redux with Redux Toolkit",
+        "description": "Redux has always been the most popular state management library for React apps. However, using Redux has changed significantly in the last few years. \"Modern Redux\" with our official Redux Toolkit package has made Redux much easier to learn and use than the older-style patterns most people have seen.  In this talk, we'll talk about some of the common concerns people listed with Redux, and how Redux Toolkit was created to address those concerns. From there, we'll look at the APIs included in Redux Toolkit, and how they simplify standard Redux usage patterns. Finally, we'll discuss the future of Redux and how we want developers to use Redux today.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Fri 11:15 - 11:55"
+    },
+    {
+        "speaker": "Maarten Van Hoof",
+        "title": "Frontend ❤️ OpenAPI",
+        "description": "As a front end developer, building projects with RESTful API dependencies ain’t all sunshine and rainbows. Security implications, parallel development, time or budget restrictions for writing documentation, …, in an enterprise you might not always have the ability to rely on your RESTful API dependencies for development, let alone for an automated testing environment.  The OpenAPI ecosystem offers us solutions in the form of virtually complete independence from a REST API during development and testing.  Maarten will guide you through a high-level overview of what the OpenAPI spec. is, but most of all, show you how it can benefit front end development by doing lots of work for you.",
+        "room": "MARIE CURIE",
+        "time": "Fri 11:15 - 11:55"
+    },
+    {
+        "speaker": "Ben Lesh",
+        "title": "Awaiting Bugs",
+        "description": "In this talk we’re going to explore async programming in JavaScript, why it sucks, and what you can do about it. Afterwards you can go look for bugs in your own async code! (So fun!)",
+        "room": "ADA LOVELACE",
+        "time": "Fri 12:00 - 12:40"
+    },
+    {
+        "speaker": "Kilian Valkhof",
+        "title": "Stop using JavaScript for that: moving features from JS to CSS and HTML",
+        "description": "Common patterns implemented with JavaScript are being replaced with \"native\" CSS and HTML equivalents that end up being more performant, more accessible and more resilient. Features like accordions, Autosuggest, smooth scrolling, dialogs, parallax scrolling and more no longer need JavaScript to work. We'll walk through common JS features that now have CSS and HTML equivalents that you can use, or will soon be able to use.",
+        "room": "HEDY LAMARR",
+        "time": "Fri 12:00 - 12:25"
+    },
+    {
+        "speaker": "Alex Lobera",
+        "title": "Building the perfect micro-frontend framework for your company",
+        "description": "You work for a company with hundreds of engineers contributing to the same front-end monolithic app. The company needs to build more features faster but an increment in developers doesn't increment productivity. Should it adopt micro-frontends? If so, is there a perfect micro-frontend framework given its tech stack and requirements? In this talk, I'll share the ladder of abstraction that you need to walk to create the perfect micro-frontend framework for your project.",
+        "room": "MARGARET HAMILTON",
+        "time": "Fri 12:00 - 12:25"
+    },
+    {
+        "speaker": "Santosh Yadav",
+        "title": "Planning and Migrating your Application to Mono-repo using Nx",
+        "description": "Collaboration is key to any organization today. Google has used mono-repos for years to ensure the code base are shared across the teams. Keeping code in mono-repo leads to quick feedback for any changes made by other groups. Over the years, it is becoming crucial for any organization as many teams are building different apps and are sometimes unaware they are duplicating the code. Using mono-repo brings many advantages. In this talk, we will cover how you can introduce Nx within your organization and important points why you need it.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Fri 12:00 - 12:25"
+    },
+    {
+        "speaker": "Keren Kenzi",
+        "title": "Get your forms hooked with react-hook-form",
+        "description": "As Front-end developers, we all know that forms can get really messy, but what if I told you that there is a library out there that can make your life much easier. In this talk, I'll introduce react-hook-form, a library that started to gain more and more popularity. It is super light, intuitive, performant, and flexible with easy-to-use validation. We'll cover its basics through a live code example and learn about its benefits. In addition, I will share with you my thoughts about what to look for when choosing a library to use.",
+        "room": "MARIE CURIE",
+        "time": "Fri 12:00 - 12:25"
+    },
+    {
+        "speaker": "Alex \"KATT\" Johansson",
+        "title": "tRPC - Move Fast and Break Nothing",
+        "description": "Introduction to tRPC, why it exists, what problem it solves, and why you should consider using it",
+        "room": "GRACE HOPPER",
+        "time": "Fri 12:30 - 12:55"
+    },
+    {
+        "speaker": "Sean Tracey",
+        "title": "Building PWAs for the metaverse",
+        "description": "In this session, we will cover the tips, tricks and techniques for building and deploying progressive web apps in VR-enabled devices.  This session will cover the gotchas of user interactions, the technologies available to help us build immersive 3D worlds, the approaches one can take to distributing their apps to VR devices and the caveats one must consider when building these experiences for users",
+        "room": "HEDY LAMARR",
+        "time": "Fri 12:30 - 12:55"
+    },
+    {
+        "speaker": "Arisa Fukuzaki",
+        "title": "One React to rule them all - Go Omni-Channel without a fuss",
+        "description": "Scale your projects to distribute content with omnichannel approach. With Headless CMS, you can build mobile apps along with web & web apps. Don’t have the mobile app development experience? No problem! Knowledge of React is very useful for React Native to develop mobile apps - many of your skills will be transferable. Also, React Native can build Progressive Web Apps (PWA) that work in any mobile devices. In this talk, you’ll see a responsive PWA example in both iOS and Android. One React to rule them all!",
+        "room": "MARGARET HAMILTON",
+        "time": "Fri 12:30 - 12:55"
+    },
+    {
+        "speaker": "Matt Pocock",
+        "title": "TypeScript and the DOM: Everything you never knew to ask",
+        "description": "TypeScript has been an extraordinary gift to developer productivity - but when it goes wrong, it can feel like you're wasting hours debugging errors.  Most of these wasted hours come from misunderstanding what's at play. TypeScript's built-in type definitions for the DOM can easily ruin your day if you don't understand their construction. But getting a feel for them can unlock new API's and give you a strong sense of confidence when working with TS.",
+        "room": "MARIE CURIE",
+        "time": "Fri 12:30 - 12:55"
+    },
+    {
+        "speaker": "Jason Mayes",
+        "title": "Demystifying Machine Learning for the rest of us",
+        "description": "As JS developers, taking your first steps unraveling the many layers of Machine Learning can be quite daunting. What exactly is the difference between Artificial Intelligence, Machine Learning, or Deep Learning? Everyone is using these terms but few can explain the difference between them. How does Machine Learning actually learn? What exactly are Tensors anyhow? This keynote will give you the 101 you need to feel comfortable in this area via a high level behind the scenes tour of how it actually works - no PhD in mathematics required. Aimed at everyone, so come along, no matter if you are a designer, engineer, or something else all together, this talk will enable you to build your confidence in this space to enjoy any future Web AI / ML talks you may attend.",
+        "room": "ADA LOVELACE",
+        "time": "Fri 14:00 - 14:40"
+    },
+    {
+        "speaker": "Alex Arena",
+        "title": "An intro to frontendless development",
+        "description": "Serverless abstracted away the intricacies and complexity of maintaining servers, is something similar possible for frontend development? In this talk we’ll introduce our approach for building apps without writing UI code or using drag-and-drop UI builders.",
+        "room": "ADA LOVELACE",
+        "time": "Fri 14:45 - 15:25"
+    },
+    {
+        "speaker": "Sebastián Ramírez Yaqueline Hoyos",
+        "title": "Intro to FastAPI for frontend developers",
+        "description": "Learn how to create an API ready for production in very little time using FastAPI with Python... for frontend developers, explained with memes.  Your API will have automatic validation, documentation based on standards, high performance, and several other features.  All this, having editor support including autocompletion everywhere.  In this talk, you will learn what FastAPI can do, and how it could benefit you.  You will see how to declare the data you want to receive in each request using standard Python type annotations. Including path parameters, query parameters, body payloads with JSON, etc.  You will also see how to use simple, standard, Python type annotations to declare complex JSON body payloads with deeply nested structures, and get automatic data validation, serialization, and documentation.  And you will get a sense of how it looks like to communicate with a FastAPI app from the frontend side.",
+        "room": "GRACE HOPPER",
+        "time": "Fri 14:45 - 15:25"
+    },
+    {
+        "speaker": "Sid Chatterjee",
+        "title": "What's in an edge",
+        "description": "How to build fast web apps using the edge",
+        "room": "HEDY LAMARR",
+        "time": "Fri 14:45 - 15:10"
+    },
+    {
+        "speaker": "Atila Fassina",
+        "title": "Remixing Usability with Performance",
+        "description": "We are going to talk about the benefits of using Optimistic UI from the perspective of UX and Usability. Once the value is established, we check what are the important caveats to be aware of, and most importantly when to use it. Moving on to more practical examples, we check the concepts behind the related Remix APIs (loader function, action function, useLoaderData , useActionData, useTransition, useFetcher), and finally: some live-coding to illustrate what we have all discussed - we create a DB table on stage so we can query and mutate data.",
+        "room": "MARGARET HAMILTON",
+        "time": "Fri 14:45 - 15:25"
+    },
+    {
+        "speaker": "Winston Hearn",
+        "title": "Front-end Observability gives you superpowers",
+        "description": "Can you easily figure out the elements that shift the most on your pages, giving you poor CLS scores? Do you know how long it takes a specific component to get remote data and become usable? Can you quickly determine if all images in your app are loading from the CDN? Are all scripts properly marked up for performant loading? Could you answer all of these questions without diving into your codebase?  In recent years, the field of Observability has developed amongst SRE/Devops teams to understand distributed systems, and its value is extremely relevant to the world of front-end systems. An app that’s instrumented with OpenTelemetry makes it fairly easy to see what’s happening on your sites and apps in near real-time, and to ask all sorts of questions that give you valuable information you can’t know currently. In this talk you’ll learn about how easy it can be to answer all the above questions, and the open-source projects that are available for instrumentation. ",
+        "room": "KATHERINE JOHNSON",
+        "time": "Fri 14:45 - 15:25"
+    },
+    {
+        "speaker": "Markandey Pathak",
+        "title": "WebAuthn - A Practical Introduction",
+        "description": "Our online existence is built on Passwords. Often a password is all that lies between a hacker and our online accounts and sensitive data.  Users have to worry about passwords being stolen by phishing tools, or being leaked online if the website is compromised. Developers have to worry about securely storing and passing passwords through systems.  But, there is a better way forward, Public Key Cryptography & Web Authentication aka WebAuthn. In this session, we will learn what is WebAuthn and how it can be implemented for Strong, Scoped, and Attested authentication on the web.  We will build a web application (and its server counterpart) to authenticate a user using the hardware authentication systems like TouchID and FaceID.",
+        "room": "MARIE CURIE",
+        "time": "Fri 14:45 - 15:25"
+    },
+    {
+        "speaker": "Evan Bacon",
+        "title": "Cross-Platform Navigation with Expo and React",
+        "description": "The biggest issue with universal React Native apps is sharing navigation code across web and native platforms…  The paradigms are just so complex and different!  I’ve been doing lots of work on the issue at Expo, I'm excited to share some updates on the solution!  Ultimately we need a system to automatically split navigation elements away from routing so web can utilize the built-in browser navigation.  Also need to make the native navigation developer experience as easy as web, rather than increasing web complexity to the same level as native (this part is hard).",
+        "room": "ADA LOVELACE",
+        "time": "Fri 15:30 - 15:55"
+    },
+    {
+        "speaker": "Nathalia Rus",
+        "title": "Building my startup's codebase from the ground up: Lessons Learned",
+        "description": "Everyone talks about code \"scalability\" and \"maintainability\", but I remember struggling to find practical, real-world codebase examples with best practices across state management, to UI volatility management, and business logic management.  Years later, I built Custodian - a large, complex platform. Our developers team grew in size seamlessly. I share some of my learnings and shortcomings.  I will walk through our codebase structure, how I learned from open source projects, how we leveraged typescript and atomic design with storybook.  Importantly, I would like to show examples of what turned out to be a great idea, and conversely, what I regret.  This talk is not just theory, we will have a look at some code.",
+        "room": "GRACE HOPPER",
+        "time": "Fri 15:30 - 15:55"
+    },
+    {
+        "speaker": "Elad Shechter",
+        "title": "How Does CSS Work?",
+        "description": "When you start creating a new website or web application, even before writing a single style, the browser applies styles to it — its default styles. Have you ever asked yourself who decides what those basic default styles will be? In this talk, I want to teach you and show you the different levels of CSS in browsers, how they work, and how we can control and manipulate them.",
+        "room": "HEDY LAMARR",
+        "time": "Fri 15:30 - 15:55"
+    },
+    {
+        "speaker": "Jesse Hall",
+        "title": "There's More to Console than .log()",
+        "description": "Why is console.log() the go-to for debugging in JavaScript? Did you know that there are many other console methods? 18 in fact!! In this talk, we'll explore all of the options and find better ways to debug JavaScript.",
+        "room": "MARGARET HAMILTON",
+        "time": "Fri 15:30 - 15:55"
+    },
+    {
+        "speaker": "Eddie Jaoude",
+        "title": "Accelerate your career with Open Source",
+        "description": "In this talk I take you through my journey of getting into Open Source 15 years ago completely by chance and as a hobby, how I made it into my \"day job\" and scaled this to be my business.  I will cover why you should get involved in Open Source, how to contribute to open source whether or not you code and how anyone can do this. As well as share success stories of community members who have gone on to have a career in Open Source.  Finally I will leave you with my takeaways on how to succeed with Open Source.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Fri 15:30 - 15:55"
+    },
+    {
+        "speaker": "Alisa Duncan",
+        "title": "Angular Component Test Harnesses FTW",
+        "description": "Do your component tests feel \"cluttered\"? Do you wish for tests that are easier to write and maintain, and focused on testing behavior without worrying about having to always query the template to interact with components? This is possible when you tidy up your test using Angular CDK's test harnesses. In this talk, we'll cover different types of testing methods, what test harnesses are, using Angular Material component test harnesses for immediate results, and how you can extend the CDK `ComponentHarness` to create custom component test harnesses. With the power of testing harnesses, you'll be able to write winning tests.",
+        "room": "MARIE CURIE",
+        "time": "Fri 15:30 - 15:55"
+    },
+    {
+        "speaker": "Jessica Cregg",
+        "title": "Stop, Drop and Rollback: Creating Safer Releases with Feature Flags",
+        "description": "Creating and deploying new software is risky. Whether you're conducting a migration project or unveiling new functionality, we've all seen how easily bugs arise, causing our applications to be poorly delivered and even go out to the wrong people or, worse still, take down our systems altogether.  It's essential to have safety nets in place when things don't go as planned. This talk will cover how you can use flags to cover your bases, define your blast radius, and decide how your application responds if you get met with a disastrous degradation.  In this session, we'll discuss how feature flags can work in both temporary and permanent scenarios to enable you to break the quality triangle and deliver well-built applications promptly at scale.",
+        "room": "ADA LOVELACE",
+        "time": "Fri 16:30 - 16:55"
+    },
+    {
+        "speaker": "Niamh McCooey",
+        "title": "A Beginner's Guide to Storybook",
+        "description": "Have you ever felt totally confident that your code was about to ship, only to get stuck on reformatting, reconfiguring, and revisiting the same issues over and over again? From design to engineering, to QA and deployments, getting your code out there can take an awfully long time. And oftentimes this process involves a lot of back and forth between designers, marketers, managers and engineers. This talk is all about reducing those bottlenecks. By combining Storybook & React, tech teams can massively minimise the feedback process, automatically test new designs, and reduce the number of deployment blockers to make for happier teams, and a smoother production process.",
+        "room": "GRACE HOPPER",
+        "time": "Fri 16:30 - 16:55"
+    },
+    {
+        "speaker": "Queen Raae",
+        "title": "Keep calm and code your own Gatsby Plugin!",
+        "description": "There is a plugin for that! But you are not obliged to use any of them. We'll look at how the plugin system works and how to break free and code your own when needed!",
+        "room": "HEDY LAMARR",
+        "time": "Fri 16:30 - 16:55"
+    },
+    {
+        "speaker": "David Whitney",
+        "title": "Serverless Azure Static Web Apps with JavaScript and TypeScript",
+        "description": "You'll be taken through how you can build super cheap, lightning fast web apps, with continuous delivery from your GitHub repositories, that even include server-side API code that is magically hosted and managed for you.  We'll look at local dev, explaining how the developer experience works, we'll cover configuration and secrets management, CI and deployment.  To finish, we'll look at the layout of your repository, and how you can make Azure manage server-side code for you, from inside your static apps, with almost no configuration.",
+        "room": "MARGARET HAMILTON",
+        "time": "Fri 16:30 - 17:25"
+    },
+    {
+        "speaker": "Daniel Madalitso Phiri",
+        "title": "Content Tooling for Frontend Devs",
+        "description": "We see a lot of talks on how developer tooling and frontend development is evolving. A majority of websites on the internet are content driven, for the share of usage they get, we barely see any information on content tooling for frontend developers. This talk aims to change that.  We’ll cover - Problems frontend developer face building content websites - The state of content tooling and how to avoid decision paralysis in a crowded space - A modern content stack overview - A look at modern approaches to building content driven websites. - Demo of common problems solved with modern content tooling",
+        "room": "KATHERINE JOHNSON",
+        "time": "Fri 16:30 - 16:55"
+    },
+    {
+        "speaker": "April Dunnam",
+        "title": "Low Code Apps Don't Have to be Ugly",
+        "description": "Sure low-code tools make it easier to build applications but how do you make sure that you aren't sacrificing quality and good UI/UX design for that easy button? They say \"if you build it they will come\" but if you want them to stay you need to make sure your app is fast, intuitive and easy to use.  In this session, we'll examine user experience design guidelines to help you make performant, easy to use and sticky apps with Microsoft Power Apps!",
+        "room": "MARIE CURIE",
+        "time": "Fri 16:30 - 17:25"
+    },
+    {
+        "speaker": "Ryan Carniato",
+        "title": "SolidJS: The World Beyond Components",
+        "description": "Components have been the foundation of how we've built web applications for almost a decade now. They've defined not only how we organize our code but how it runs.  In this talk, Ryan, author of SolidJS, will look at what comes after the component model. Driven by the need for more granularity, and empowered by compilation, reactivity is becoming the universal language of user interfaces.",
+        "room": "ADA LOVELACE",
+        "time": "Fri 17:00 - 17:25"
+    },
+    {
+        "speaker": "Isaac Sixtus Chizaram",
+        "title": "Designing For Interactive Live-Streaming Events",
+        "description": "Live streaming is the evolution of live TV. The reasons why live TV made such a big impact was because it brought viewers up-to-date, informative and accessible content. Live streaming is so important, for brands and individuals because of the level of interaction and engagement it offers. No other platform or marketing strategy allows for such level of interaction. Live streaming also has the highest rate of engagement of all content types. With my experience designing for interactive live-streaming events at Hovercast, i 'd share the UX design process involved in improving virtual events experiences",
+        "room": "GRACE HOPPER",
+        "time": "Fri 17:00 - 17:25"
+    },
+    {
+        "speaker": "Giorgio Boa",
+        "title": "Serverless production ready with Svelte + AWS Cognito and Amplify",
+        "description": "Often at the beginning of a new project we want a quick time to market to validate our application, to understand if it will be used and if it will bring us value. In this talk we are going to use Svelte to develop our app, but we don't want to reinvent the wheel because time is money. The login of our app will be managed through the identity provider (AWS Cognito) and the data persistence layer will be serverless using AWS Amplify. We will see step by step how to create our app to go straight on production.",
+        "room": "HEDY LAMARR",
+        "time": "Fri 17:00 - 17:25"
+    },
+    {
+        "speaker": "Josh Ackerman",
+        "title": "Building a low-code SaaS business in 20 minutes",
+        "description": "Learn how to set up the right recurring billing model, display your pricing plans on your website, accept payments from your customers, and then allow your customers to manage their subscriptions. We'll spend 20 min and write less than 20 lines of code to bring your SaaS business to life. Anyone can build a SaaS business; you need not be a founder or have raised funding. And by getting started today, you're one step closer to reaching product-market fit. Join us to jolt your B2C or B2B SaaS idea from concept or prototype to a business ready to open its doors!",
+        "room": "KATHERINE JOHNSON",
+        "time": "Fri 17:00 - 17:25"
+    },
+    {
+        "speaker": "Jhey Tompkins",
+        "title": "Supercharge your skills with Creative Coding",
+        "description": "The web platform is an incredible thing we all have access to. You’re able to create pretty much anything you want (within reason) by opening a browser. It’s just pixels, am I right?  In a sea of gradient text and three box layouts, express yourself! There’s always space for whimsy. And when you’re fuelled by your ideas, we are able to explore and innovate the web platform together. Creative coding really brings with it so many benefits. But, the main one? The confidence to solve whatever is laid in front of you.  When you stop dwelling on the \"Why?\" and worry less about the \"How?\", you can focus on the exciting part, the \"What?\".",
+        "room": "ADA LOVELACE",
+        "time": "Fri 17:30 - 18:25"
+    },
+    {
+        "speaker": "Thomas Desmond",
+        "title": "Flexible Jamstack: Unlocking The Potential of Static Sites",
+        "description": "Jamstack applications are known for being extremely fast, but lacking flexibility. That ends now! Do more with Jamstack by pushing logic to the edge with Vercel Edge Middleware. Keep the speed and unlock the power of dynamic.  In this code-included demonstration, you will learn what static sites are and how to use Vercel Edge Middleware to put your logic in the content delivery network (CDN) layer. I'll be demoing on Next.js, but Edge middleware doesn't stop at Next.js, push logic to the CDN layer in React, Angular, Vue, or whatever frontend framework you use.  ",
+        "room": "GRACE HOPPER",
+        "time": "Fri 17:30 - 18:25"
+    },
+    {
+        "speaker": "Chris DeMars",
+        "title": "Accessibility in the Enterprise: The Relationship of A11y and ROI",
+        "description": "As we build more and more things on the web, accessibility is gaining much more visibility. But what does it actually mean to you and your company? It means we HAVE to be cognizant of everyone, all the time, with no exceptions as we do our part in building awesome, accessible user experiences to people of all levels of ability while being mindful of our users' diversity of disability. Accessibility on the web is not a nice-to-have, but a requirement: leaving out at least 20% of your audience can be detrimental to your organization's return on investment and bottom line. Not sure what to do? Let's fix that! Let's talk about all of the reasons that accessibility is essential to your organization and your users. You'll learn ways to ensure you're providing the best possible experience for all your users by sharing real examples from my time building and testing accessible applications to ensure you're truly delivering inclusive experiences.",
+        "room": "HEDY LAMARR",
+        "time": "Fri 17:30 - 18:25"
+    },
+    {
+        "speaker": "Liran Tal",
+        "title": "How React applications get hacked in the real-world",
+        "description": "Modern frontend frameworks like React are well thought of in their application security design and that’s great. However, there is still plenty of room for developers to make mistakes and use insecure APIs, vulnerable components, or generally do the wrong thing that turns user input into a Cross-site Scripting vulnerability (XSS). Let me show you how React applications get hacked in the real-world and learn through a live coding session about employing various attack vectors to hack through code vulnerabilities that exist in React codebases.",
+        "room": "MARGARET HAMILTON",
+        "time": "Fri 17:30 - 18:10"
+    },
+    {
+        "speaker": "Todd Libby",
+        "title": "Deceptive Patterns & FAST",
+        "description": "Deceptive patterns (also widely known as \"dark patterns\") are all over the Web. I'll speak to the accessibility impact deceptive patterns and \"dark\" patterns have as well as my introduction to taking these patterns and my work in the W3C to have these published in WCAG 3.  There is a lot of work being done in the Functional Needs group of the W3C to introduce these to FAST. I'll talk about FAST, what it means to accessibility, and to users, developers, designers, and everyone in-between in the organization.  I'll also introduce people to the Framework for Accessible Specification of Technologies (FAST) which advises creators of technical specifications on ensuring their technology meets the needs of users with disabilities. It primarily addresses web content technologies but also relates to any technology that affects web content sent to users, including client-side APIs, transmission protocols, and interchange formats. Specifications that implement these guidelines make it possible for content authors and user agents to render the content in an accessible manner to people with a wide range of abilities.",
+        "room": "KATHERINE JOHNSON",
+        "time": "Fri 17:30 - 18:25"
+    }
+]
