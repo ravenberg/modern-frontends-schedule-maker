@@ -33,7 +33,12 @@ export default function Index({}) {
             <h1>Modern Frontends Schedule Maker</h1>
 
             <button
-                style={buttonStyles}
+                style={{
+                    ...buttonStyles,
+                    position: 'fixed',
+                    bottom: '12px',
+                    right: '12px'
+                }}
                 onClick={() => {
                     setOnlyFavoritesAreShown(!onlyFavoritesAreShown)
                 }}
