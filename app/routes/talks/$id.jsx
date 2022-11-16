@@ -1,5 +1,5 @@
 import talks from '../../data/talks.json';
-import { Link, useLoaderData } from '@remix-run/react';
+import { useLoaderData, useNavigate } from '@remix-run/react';
 import useFavorites from '~/hooks/useFavorites';
 import { buttonStyles } from '../../../styles/styles'
 
@@ -13,10 +13,11 @@ export const loader = ({ params }) => {
 export default function () {
     const { talk } = useLoaderData();
     const { favorites, setFavorite, removeFavorite} = useFavorites()
+    const navigate = useNavigate()
 
     return (
         <>
-            <Link to="/">← Back to overview</Link>
+            <button style={{ fontSize: '14px' }} onClick={() => navigate(-1)}>← Back to overview</button>
             <h1>{talk.title}</h1>
             <div style={{
                 display: 'flex',
