@@ -3,6 +3,7 @@
         "speaker": "Team + Emcees",
         "title": "OPENING WELCOME",
         "room": "ADA LOVELACE",
+        "description": "Opening welcome",
         "time": "Thu 09:15 - 09:30"
     },
     {
@@ -35,8 +36,8 @@
     },
     {
         "speaker": "Maxim Salnikov",
-        "title": "Native Web Apps: Are We There Yet?",
-        "description": "There are so many discussions about web VS native apps. Will we get to the point where the Web becomes truly Native for the majority of the platforms? Progressive Web Apps, Project Fugu, WebAssembly & other technologies actively contribute to moving in this direction. In this session, we go through a list of details that make the integration of an application & operating system seamless, and map it to the APIs available for the web platform. With the knowledge of what's available today and what's coming soon, you are empowered to build truly Native Web Apps to deliver the best user experience!",
+        "title": "Native Web Apps: Are We There Yet&quest;",
+        "description": "There are so many discussions about web VS native apps. Will we get to the point where the Web becomes truly Native for the majority of the platforms&quest; Progressive Web Apps, Project Fugu, WebAssembly & other technologies actively contribute to moving in this direction. In this session, we go through a list of details that make the integration of an application & operating system seamless, and map it to the APIs available for the web platform. With the knowledge of what's available today and what's coming soon, you are empowered to build truly Native Web Apps to deliver the best user experience!",
         "room": "HEDY LAMARR",
         "time": "Thu 10:45 - 11:25"
     },
@@ -49,7 +50,7 @@
     },
     {
         "speaker": "Carly Richmond",
-        "title": "Are They Really Using It? Monitoring Digital Experience to Determine Feature Effectiveness",
+        "title": "Are They Really Using It&quest; Monitoring Digital Experience to Determine Feature Effectiveness",
         "description": "Building beloved user applications is a challenging yet rewarding pursuit for us working in technology today. While real user monitoring, or RUM, metrics are added early for external-facing applications, it is often added as an afterthought in the building of applications when building applications for users within organisations. Instead, we rely on anecdotal discussions and review feedback that, for many reasons, can leave us with an incomplete or accurate picture of the adoption of the software we build.  In this talk, I will use my experience in building applications in investment banking to discuss the reasons why obtaining long-term feedback on feature adoption can be difficult to validate. We will also outline how real user monitoring and performance capabilities in tools such as Elastic User Experience or other RUM collectors can help you quantify user experience satisfaction and adoption to ensure we are providing effective experiences for users.",
         "room": "KATHERINE JOHNSON",
         "time": "Thu 10:45 - 11:25"
@@ -112,7 +113,7 @@
     },
     {
         "speaker": "Austin Gil",
-        "title": "What does it takes to make a div?",
+        "title": "What does it takes to make a div&quest;",
         "description": "A journey following your code from the editor through build processes into deployment pipelines out to the public internet and finally rendered in a user's browser.  With the advent of frameworks, build tools, and deployment services, the distance between developers and browsers is growing. Developer Experience has improved, but with these abstractions, we've introduced layers of obscurity.  In this talk, we'll take a deep dive into what happens after you hit save. What processes take place to get your code transformed for production, how does it get deployed, and the steps required before a div can get to a user.",
         "room": "HEDY LAMARR",
         "time": "Thu 12:00 - 12:25"
@@ -238,7 +239,7 @@
     },
     {
         "speaker": "Filip Rakowski",
-        "title": "How composability is changing the way we write commerce storefronts?",
+        "title": "How composability is changing the way we write commerce storefronts&quest;",
         "description": "In the last years, the eCommerce landscape has been going through a real paradigm shift. For many years we used to build eCommerce shops using monolithic platforms written in backend technologies like PHP or Java.  Shift Is happening away from platform-centric commerce, toward customer centric mobile commerce. The most innovative companies have already moved away from legacy platforms toward new commerce technology that prioritizes the customer experience.  Because they understand customer experience drives conversion, and conversion pays the bils  The current paradigm shift is favouring using multiple best-of-breed vendors covering smaller functionalities instead of leveraging all features from your eCommerce platform. Thanks to that the technology is specifically tailored for your use cases  During this talk I want to introduce the changes happening now in the eCommerce space and how they are influencing the way we build frontends these days",
         "room": "GRACE HOPPER",
         "time": "Thu 15:15 - 15:55"
@@ -266,7 +267,7 @@
     },
     {
         "speaker": "Francesco Leardini",
-        "title": "Wait...can my browser do that??",
+        "title": "Wait...can my browser do that&quest;&quest;",
         "description": "We have new powerful instruments to leverage current web apps and provide a richer experience to our users. With the aim of modern web APIs, it is possible to design completely new functionalities and explore unique technological combinations, changing the way we develop and interact with web apps. We can directly use hardware devices and just through our browser! Let's explore some of the most exciting APIs and see how we can combine them to unlock new scenarios and give superpowers to our web apps.",
         "room": "MARIE CURIE",
         "time": "Thu 15:15 - 15:55"
@@ -601,7 +602,7 @@
     },
     {
         "speaker": "Elad Shechter",
-        "title": "How Does CSS Work?",
+        "title": "How Does CSS Work&quest;",
         "description": "When you start creating a new website or web application, even before writing a single style, the browser applies styles to it — its default styles. Have you ever asked yourself who decides what those basic default styles will be? In this talk, I want to teach you and show you the different levels of CSS in browsers, how they work, and how we can control and manipulate them.",
         "room": "HEDY LAMARR",
         "time": "Fri 15:30 - 15:55"

@@ -1,0 +1,542 @@
+[
+    {
+        "speaker": "Facundo Giuliani",
+        "tagline": "Developer Relations Engineer. Full Stack Developer. Auth0 Ambassador. Prisma Ambassador. Cloudinary Media Developer Expert. GitKraken Ambassador.",
+        "photo": "https://sessionize.com/image/d3cd-200o200o2-fd-d6c6-4c86-acfc-7d30e94c8e9e.82464947-920d-4beb-9d36-7c6ccdb9c9a7.jpg"
+    },
+    {
+        "speaker": "Kajetan Świątek",
+        "tagline": "Front-end Developer @ SoftServe",
+        "photo": "https://sessionize.com/image/9f71-200o200o2-XW8uww34Jx6aCEG7qy8WT5.jpg"
+    },
+    {
+        "speaker": "Edward Wong",
+        "tagline": "ION Analytics, Lead Developer",
+        "photo": "https://sessionize.com/image/c21e-200o200o2-Qt9gZmZbjH2FcSEU61vtDj.jpg"
+    },
+    {
+        "speaker": "Stephen Cooper",
+        "tagline": "Senior Developer at AG Grid",
+        "photo": "https://sessionize.com/image/048b-200o200o2-K7p2EJVpn47JK6ShUvrTC1.jpg"
+    },
+    {
+        "speaker": "Catalin Pit",
+        "tagline": "Developer Advocate @ Hasura",
+        "photo": "https://sessionize.com/image/aafa-200o200o2-3wm2yzJnC4gQyGEUoSrBG4.jpg"
+    },
+    {
+        "speaker": "Isaac Sixtus Chizaram",
+        "tagline": "Designer, Hovercast",
+        "photo": "https://sessionize.com/image/b67e-200o200o2-D4kdPMuvgBoLtX3JcsW6pW.png"
+    },
+    {
+        "speaker": "Amanda Martin",
+        "tagline": "Developer Advocate @ Wix",
+        "photo": "https://sessionize.com/image/249b-200o200o2-Mzqq5oMz33SarpwkBdehew.jpg"
+    },
+    {
+        "speaker": "Hidde de Vries",
+        "tagline": "Developer relations at Sanity.io",
+        "photo": "https://sessionize.com/image/a3a0-200o200o2-Be1LYCHXATK6o4qBs18tPX.jpg"
+    },
+    {
+        "speaker": "Martin Thwaites",
+        "tagline": "Developer Advocate at Honeycomb",
+        "photo": "https://sessionize.com/image/0f09-200o200o2-WmYSCuExRJdb9fkgJFyJvg.jpg"
+    },
+    {
+        "speaker": "Omer Rosenbaum",
+        "tagline": "CTO & Co-founder at Swimm",
+        "photo": "https://sessionize.com/image/36d3-200o200o2-3ySeYqkxwSAj6tyKr2EtNH.jpg"
+    },
+    {
+        "speaker": "Filip Rakowski",
+        "tagline": "Co-founder & CTO @ Vue Storefront",
+        "photo": "https://sessionize.com/image/fe4d-200o200o2-VnvRuQVJUSN14cirFxtype.jpg"
+    },
+    {
+        "speaker": "Jason Mayes",
+        "tagline": "Web ML Lead, Google",
+        "photo": "https://sessionize.com/image/9d69-200o200o2-fu97HAfXy4RXVcSqiMEVqR.jpg"
+    },
+    {
+        "speaker": "Alex Arena",
+        "tagline": "CEO, Interval",
+        "photo": "https://sessionize.com/image/399b-200o200o2-XJpYs81v9uSm8fqizdbKP.jpg"
+    },
+    {
+        "speaker": "Sebastián Ramírez",
+        "tagline": "Creator of FastAPI",
+        "photo": "https://sessionize.com/image/a57e-200o200o2-SRMR3sJi8nBgSaifxTWPzL.jpg"
+    },
+    {
+        "speaker": "Sean Tracey",
+        "tagline": "CTO - KadVR",
+        "photo": "https://sessionize.com/image/27cc-200o200o2-QeiaEu2qTfKXwxZXc2Q5xm.jpg"
+    },
+    {
+        "speaker": "Jessica Cregg",
+        "tagline": "Developer Advocate, LaunchDarkly",
+        "photo": "https://sessionize.com/image/403d-200o200o2-Xxxt6NTMLnucBBdQT1CEBS.jpg"
+    },
+    {
+        "speaker": "Nico Martin",
+        "tagline": "Freelance Frontend Developer",
+        "photo": "https://sessionize.com/image/4596-200o200o2-VUXjycMR9aZDwrCmWGBR5Z.jpg"
+    },
+    {
+        "speaker": "Mike Hartington",
+        "tagline": "Developer/Advocate for Ionic, all around swell guy",
+        "photo": "https://sessionize.com/image/3f1a-200o200o2-ad-4033-467e-a0f9-e6404e73d5a3.51c18916-61c2-4f7b-9a09-29e9a839d02e.png"
+    },
+    {
+        "speaker": "Francesco Leardini",
+        "tagline": "Principal Consultant and Trainer @ Accenture",
+        "photo": "https://sessionize.com/image/d5f5-200o200o2-MXVb8QcQsgPA84ravoHvgs.jpg"
+    },
+    {
+        "speaker": "Arisa Fukuzaki",
+        "tagline": "Developer Relations Engineer at Storyblok",
+        "photo": "https://sessionize.com/image/5243-200o200o2-fC7ML45taETLFFKACcDPoN.JPG"
+    },
+    {
+        "speaker": "Team + Emcees",
+        "tagline": "",
+        "photo": "https://sessionize.com/image/7fe5-200o200o2-TevFooUjtG7f9mC2RpGhxW.png"
+    },
+    {
+        "speaker": "Emmy Cao",
+        "tagline": "Developer Advocate @ Wix",
+        "photo": "https://sessionize.com/image/d00f-200o200o2-9vMQr9dBTpdrb6n4fwsTTW.png"
+    },
+    {
+        "speaker": "Bruno Perez",
+        "tagline": "Associate Director | Product Design",
+        "photo": "https://sessionize.com/image/fd0b-200o200o2-91iWN5i1xZXzXghVguqkbU.jpg"
+    },
+    {
+        "speaker": "Jo Franchetti",
+        "tagline": "Developer Advocate at Ably",
+        "photo": "https://sessionize.com/image/c5d2-200o200o2-KuZnzupTnC9HGQQtJDvtpm.jpg"
+    },
+    {
+        "speaker": "Alex \"KATT\" Johansson",
+        "tagline": "Creator of tRPC.io",
+        "photo": "https://sessionize.com/image/ebee-200o200o2-SUDSQ3mLwCt8DBmEh8GRRm.jpg"
+    },
+    {
+        "speaker": "Sid Chatterjee",
+        "tagline": "Senior Systems Engineer, Cloudflare",
+        "photo": "https://sessionize.com/image/1e97-200o200o2-EQ7GmcfoSzR1EZqco6sF5k.jpg"
+    },
+    {
+        "speaker": "Michelle Azzopardi",
+        "tagline": "App Innovation Lead Microsoft UK",
+        "photo": "https://sessionize.com/image/6198-200o200o2-pW6fZBCkT7fC1Dj569hE5Z.jpg"
+    },
+    {
+        "speaker": "Ben Bayard",
+        "tagline": "Software Engineer at Stripe",
+        "photo": "https://sessionize.com/image/8692-200o200o2-4q9DsJQDKpB14h9wTMAUDQ.jpg"
+    },
+    {
+        "speaker": "Evan Bacon",
+        "tagline": "Expo, Manager of Dev Tools, Author of Expo CLI, Expo for web, and Create React Native App",
+        "photo": "https://sessionize.com/image/2abd-200o200o2-cfb41965-c777-4aa6-8f8c-9a372d26570a.jpg"
+    },
+    {
+        "speaker": "Maxim Salnikov",
+        "tagline": "Developer Engagement Lead at Microsoft, Tech Communities Lead, Keynote Speaker",
+        "photo": "https://sessionize.com/image/b8fb-200o200o2-1e-b198-49ca-9147-8fec90eef254.77c9bf22-6f68-4cc2-ab03-02b382393cf7.jpg"
+    },
+    {
+        "speaker": "Todd Libby",
+        "tagline": "Senior Accessibility Engineer/W3C Invited Expert",
+        "photo": "https://sessionize.com/image/ad77-200o200o2-LgiCjJ9E3PJrmBjzXG9nQg.jpg"
+    },
+    {
+        "speaker": "Mark Erikson",
+        "tagline": "Senior Front-End Engineer at Replay.io",
+        "photo": "https://sessionize.com/image/0453-200o200o2-JycKa96ALmVtn2Egs4rAPa.jpg"
+    },
+    {
+        "speaker": "Jay Phelps",
+        "tagline": "Web Platform @ Netflix",
+        "photo": "https://sessionize.com/image/9534-200o200o2-BQsKtn9auPSbcmcmwETPPa.jpg"
+    },
+    {
+        "speaker": "Thomas Steiner",
+        "tagline": "Developer Advocate at Google",
+        "photo": "https://sessionize.com/image/c472-200o200o2-a7925b00-15e0-4b09-93c8-518a53f0f46d.jpg"
+    },
+    {
+        "speaker": "Chris Reddington",
+        "tagline": "Helping Enterprises ❤️ GitHub",
+        "photo": "https://sessionize.com/image/bf01-200o200o2-B2cGDtRz51SUi4ckcNjLDt.jpg"
+    },
+    {
+        "speaker": "Ben Lesh",
+        "tagline": "RxJS Lead, JavaScript malcontent.",
+        "photo": "https://sessionize.com/image/e160-200o200o2-henBp7DvZb7kTyg3LV9nBr.jpg"
+    },
+    {
+        "speaker": "Andrea Wu",
+        "tagline": "Developer Relations Engineer for Firebase at Google",
+        "photo": "https://sessionize.com/image/22a9-200o200o2-M95DJp2hhyoPcsAFkUoNp.jpg"
+    },
+    {
+        "speaker": "Matt Pocock",
+        "tagline": "Developer Advocate at Vercel",
+        "photo": "https://sessionize.com/image/f124-200o200o2-LgCH1ytCMeNghQFdbNcyEU.jpg"
+    },
+    {
+        "speaker": "Zachary Powell",
+        "tagline": "Sr Android Developer Advocate at Vonage",
+        "photo": "https://sessionize.com/image/5940-200o200o2-BwCD12MukM1vbxhVPu8zCH.jpeg"
+    },
+    {
+        "speaker": "Jhey Tompkins",
+        "tagline": "Making awesome things for awesome people! 🐻 – Developer Relations Engineer, Whimsy Dev Supreme! @ Google",
+        "photo": "https://sessionize.com/image/111c-200o200o2-WbR31SvqXaayC6QzX8i24A.jpg"
+    },
+    {
+        "speaker": "Elad Shechter",
+        "tagline": "CSS/HTML Architect",
+        "photo": "https://sessionize.com/image/e1f4-200o200o2-BPujjYHoa3b4VrXjzu6Q6Z.png"
+    },
+    {
+        "speaker": "Josh Ackerman",
+        "tagline": "Senior Product Manager, Stripe",
+        "photo": "https://sessionize.com/image/9671-200o200o2-s4wRAXVpQNNDG7fzEocEuw.jpg"
+    },
+    {
+        "speaker": "Niamh McCooey",
+        "tagline": "Frontend Developer at Elsewhen",
+        "photo": "https://sessionize.com/image/65a4-200o200o2-BbhcVVsZaC4swdAmWmJe6Y.jpeg"
+    },
+    {
+        "speaker": "Thomas Desmond",
+        "tagline": "Sitecore - Technical Evangelist",
+        "photo": "https://sessionize.com/image/85f4-200o200o2-GSZ9KwBUiuvVZijUm5WER6.jpg"
+    },
+    {
+        "speaker": "Markandey Pathak",
+        "tagline": "Senior Associate @ JP Morgan & Chase",
+        "photo": "https://sessionize.com/image/975f-200o200o2-47o3w1bb4swH2wV3A1erbA.jpg"
+    },
+    {
+        "speaker": "Colin Sidoti",
+        "tagline": "Co-founder and CEO, Clerk.dev",
+        "photo": "https://sessionize.com/image/66a5-200o200o2-f3UJk4RoN65ndvoq9Gz1Lt.jpg"
+    },
+    {
+        "speaker": "Sami Jaber",
+        "tagline": "Senior Software Engineer @ Builder.io",
+        "photo": "https://sessionize.com/image/ef06-200o200o2-vmjTqwyKLzGVwvXzuW9hn.jpg"
+    },
+    {
+        "speaker": "Amy Dutton",
+        "tagline": "Director of Design at ZEAL",
+        "photo": "https://sessionize.com/image/0ec9-200o200o2-TWPSspuFDaZy13JxYene46.jpg"
+    },
+    {
+        "speaker": "Laurence Moroney",
+        "tagline": "AI Advocate, Google",
+        "photo": "https://sessionize.com/image/812a-200o200o2-4h5Gi84CaeKb3G3iLuQHTw.jpg"
+    },
+    {
+        "speaker": "Eddie Jaoude",
+        "tagline": "Open Source DevRel, Founder of EddieHub community",
+        "photo": "https://sessionize.com/image/538e-200o200o2-7b3indQjPTC6RHRrt7dRXF.jpg"
+    },
+    {
+        "speaker": "Alex Lobera",
+        "tagline": "Staff Engineer @Miro",
+        "photo": "https://sessionize.com/image/f308-200o200o2-PjYcTDUU8SXEmS94MMdhXq.png"
+    },
+    {
+        "speaker": "Natalia Venditto",
+        "tagline": "Principal Program Manager @Microsoft",
+        "photo": "https://sessionize.com/image/0ecb-200o200o2-4NPjtN82SjddHbCC6btv1W.jpg"
+    },
+    {
+        "speaker": "Scott Spence",
+        "tagline": "Developer Relations Engineer, Storyblok",
+        "photo": "https://sessionize.com/image/8aab-200o200o2-T4uQ7cahsSsm9RUvcRXkQw.png"
+    },
+    {
+        "speaker": "Mana Peirov",
+        "tagline": "AG Charts Developer Expert",
+        "photo": "https://sessionize.com/image/09fa-200o200o2-9cVEKGPVAkVVDdwGE9ydna.jpg"
+    },
+    {
+        "speaker": "Jessica Sachs",
+        "tagline": "Cypress.io Ambassador + Staff Engineer at PathAI. Building Open Source tools for testing",
+        "photo": "https://sessionize.com/image/06d5-200o200o2-VexeRQYrb3XN3HunwhC32B.jpg"
+    },
+    {
+        "speaker": "Luca Casonato",
+        "tagline": "Software Engineer at Deno",
+        "photo": "https://sessionize.com/image/8771-200o200o2-Be1bbJCgMH6NRea7BjCn5b.jpg"
+    },
+    {
+        "speaker": "Liran Tal",
+        "tagline": "GitHub Star | Director of Developer Advocacy at Snyk",
+        "photo": "https://sessionize.com/image/99a7-200o200o2-SgVyYYWeoLEaLaDrbwDQCN.png"
+    },
+    {
+        "speaker": "Luca Mezzalira",
+        "tagline": "Principal Serverless Specialist Solutions Architect at AWS",
+        "photo": "https://sessionize.com/image/ae01-200o200o2-4f972ebc-5ad8-4145-91dd-90c89bcab2e6.jpg"
+    },
+    {
+        "speaker": "Jesse Hall",
+        "tagline": "@codeSTACKr & MongoDB Senior Developer Advocate",
+        "photo": "https://sessionize.com/image/b081-200o200o2-VN6iG8WqRZt1q8qoUDVrPH.jpg"
+    },
+    {
+        "speaker": "Juri Strumpflohner",
+        "tagline": "Director of Developer Experience at Nrwl",
+        "photo": "https://sessionize.com/image/fbfb-200o200o2-GzBS3DmCr3dmzfVcxTuURF.jpg"
+    },
+    {
+        "speaker": "Liam Hampton",
+        "tagline": "Regional Cloud Advocate @ Microsoft, UK",
+        "photo": "https://sessionize.com/image/aa88-200o200o2-DJM72xypjGrrfjMMawDHqf.jpg"
+    },
+    {
+        "speaker": "Dylan Beattie",
+        "tagline": "The one in the hat.",
+        "photo": "https://sessionize.com/image/710c-200o200o2-fc-1de6-4228-8bd6-04f4ba1c4267.e3dc3379-2400-4faf-a9f7-9267394c6014.jpg"
+    },
+    {
+        "speaker": "Jeremy Meiss",
+        "tagline": "Nerd-herder, Cat-wrangler, DevRel & Community Fiend",
+        "photo": "https://sessionize.com/image/2f84-200o200o2-GJs7DQeUq9nqs2ASKNeXoR.jpg"
+    },
+    {
+        "speaker": "Tejas Kumar",
+        "tagline": "Director of Developer Relations, Xata",
+        "photo": "https://sessionize.com/image/418d-200o200o2-Bs3U3PGMbeXTHz7AHsct4q.jpg"
+    },
+    {
+        "speaker": "Kenneth Christiansen",
+        "tagline": "Web Platform Architect at Intel Corporation, W3C Technical Architecture Group alumni",
+        "photo": "https://sessionize.com/image/84c7-200o200o2-61-b54a-4e83-895b-043292dd29d3.89ecda2e-523f-40f7-a2a8-90b38c85864b.jpg"
+    },
+    {
+        "speaker": "Homer Gaines, CPACC",
+        "tagline": "Staff UI Engineer and Certified Accessibility Professional",
+        "photo": "https://sessionize.com/image/151a-200o200o2-5b71ef3b-47fb-4ba2-ad78-cc313764ae9f.jpg"
+    },
+    {
+        "speaker": "Daniel Roe",
+        "tagline": "Framework Architect at Nuxt.js",
+        "photo": "https://sessionize.com/image/2914-200o200o2-DQTTkdG7YHZmqwBHvorEt2.jpg"
+    },
+    {
+        "speaker": "Sam Bellen",
+        "tagline": "Developer evangelist at Auth0",
+        "photo": "https://sessionize.com/image/e7dd-200o200o2-e3-dbc0-486a-a08f-b9df9dba927f.8cf9629a-c1df-48ae-a2b5-fc88c1fe880b.jpg"
+    },
+    {
+        "speaker": "Roy Derks",
+        "tagline": "Speaker and author on GraphQL, React and TypeScript",
+        "photo": "https://sessionize.com/image/4fa2-200o200o2-aa-3d92-45ff-95b4-68ed3ca86e9e.7f493220-f331-47b5-a120-72475f106f32.JPG"
+    },
+    {
+        "speaker": "Bolaji Ayodeji",
+        "tagline": "Developer Advocate at Commerce Layer",
+        "photo": "https://sessionize.com/image/831a-200o200o2-hEV8zkffiUPgH6QqepWV2u.jpg"
+    },
+    {
+        "speaker": "April Dunnam",
+        "tagline": "Power Platform Developer Advocate, Microsoft",
+        "photo": "https://sessionize.com/image/81dd-200o200o2-KFrVZ3xbdcKoz7utMEMwZm.jpg"
+    },
+    {
+        "speaker": "Harry Roberts",
+        "tagline": "CSS Wizardry",
+        "photo": "https://sessionize.com/image/c15b-200o200o2-GcvZxLkdm7AErj7Ruc6qhz.jpg"
+    },
+    {
+        "speaker": "Ruben Casas",
+        "tagline": "Staff Engineer at Postman",
+        "photo": "https://sessionize.com/image/b041-200o200o2-wNYkou1MJWq75LkmdBZ2xM.jpg"
+    },
+    {
+        "speaker": "Ryan Carniato",
+        "tagline": "SolidJS Creator, Open Source at Netlify",
+        "photo": "https://sessionize.com/image/9e00-200o200o2-T3cHQU75sgUo2KD17W5TZR.jpg"
+    },
+    {
+        "speaker": "David Whitney",
+        "tagline": "Converting rum into code",
+        "photo": "https://sessionize.com/image/f578-200o200o2-352DP5oNLz89ni6TWTRpBT.jpg"
+    },
+    {
+        "speaker": "Daniel Madalitso Phiri",
+        "tagline": "Developer Relations Lead",
+        "photo": "https://sessionize.com/image/e709-200o200o2-98rVZDhxFWESXyFz18afqh.jpg"
+    },
+    {
+        "speaker": "Matteo Collina",
+        "tagline": "Co-Founder & CTO, Platformatic, Node.js TSC member, Fastify Lead Maintainer",
+        "photo": "https://sessionize.com/image/b667-200o200o2-JC9X6UQvW1AKyb6jspk92r.jpg"
+    },
+    {
+        "speaker": "Manu Martínez-Almeida",
+        "tagline": "Builder.io, Senior Framework Engineer",
+        "photo": "https://sessionize.com/image/93cc-200o200o2-XyWp4rY3NcSJx85mxPuCDx.jpg"
+    },
+    {
+        "speaker": "Mark Thompson",
+        "tagline": "Developer Advocate for Angular @ Google",
+        "photo": "https://sessionize.com/image/e8ef-200o200o2-43-89d7-41c5-8c40-3c71b76fde3c.cdbfa530-f2bf-4307-95a5-e31e17a8e2f6.jpeg"
+    },
+    {
+        "speaker": "Kilian Valkhof",
+        "tagline": "Founder at Polypane browser for developers",
+        "photo": "https://sessionize.com/image/1ca1-200o200o2-SHWMWcFrAxfjBSvvwn1whn.jpg"
+    },
+    {
+        "speaker": "Niall Crosby",
+        "tagline": "Founder of AG Grid",
+        "photo": "https://sessionize.com/image/a602-200o200o2-Phv2XPKEpFD1ZYMCuWV3SH.png"
+    },
+    {
+        "speaker": "Queen Raae",
+        "tagline": "Let's get the most out of Gatsby!",
+        "photo": "https://sessionize.com/image/fbba-200o200o2-G4QvTskUReXYayL4qbDRxj.png"
+    },
+    {
+        "speaker": "Maarten Van Hoof",
+        "tagline": "Developer Advocate & Front End Engineer @ iO, Campus Eindhoven",
+        "photo": "https://sessionize.com/image/7a03-200o200o2-YZohfshqWVSYaEtuHXGuHu.jpg"
+    },
+    {
+        "speaker": "Alex Russell",
+        "tagline": "Partner, Product Manager, Microsoft Edge",
+        "photo": "https://sessionize.com/image/2550-200o200o2-Mcb3Q8F3ByHjF71wp27mfR.jpg"
+    },
+    {
+        "speaker": "Keren Kenzi",
+        "tagline": "Senior Software Engineer",
+        "photo": "https://sessionize.com/image/ebf7-200o200o2-SiLf8UH1WhYoJEaaFbJ1Xu.jpg"
+    },
+    {
+        "speaker": "Francesco Ciulla",
+        "tagline": "Developer Advocate at daily.dev | Docker Captain",
+        "photo": "https://sessionize.com/image/b3e2-200o200o2-PtLbmULx6m67Mwofxi23mn.png"
+    },
+    {
+        "speaker": "Anna Migas",
+        "tagline": "Lead UI Developer, Field Intelligence",
+        "photo": "https://sessionize.com/image/c2d2-200o200o2-BS9KUPHFPXvFk83uJDhtto.jpg"
+    },
+    {
+        "speaker": "Eeva-Jonna Panula",
+        "tagline": "Accessibility Specialist, Senior Software Developer at Oura",
+        "photo": "https://sessionize.com/image/d836-200o200o2-J3UgjVGJhA1e8k31Lz9Fkc.jpg"
+    },
+    {
+        "speaker": "Giorgio Boa",
+        "tagline": "Full stack developer @ Flowing",
+        "photo": "https://sessionize.com/image/8507-200o200o2-96CddLZJoPxfyJ1q7zyHe3.jpeg"
+    },
+    {
+        "speaker": "James Quick",
+        "tagline": "Developer. Speaker. Teacher.",
+        "photo": "https://sessionize.com/image/f7a0-200o200o2-w5z7WQjS2Kceu4dgKwuHwS.png"
+    },
+    {
+        "speaker": "Pratham Kumar",
+        "tagline": "Head of DevRel at Hyperspace",
+        "photo": "https://sessionize.com/image/51de-200o200o2-fumcL75gAyXu3cCHwVhLmR.jpg"
+    },
+    {
+        "speaker": "Waller Goble",
+        "tagline": "Senior Software Engineer @ Microsoft",
+        "photo": "https://sessionize.com/image/8985-200o200o2-BRxyT5x4A2fagyBcHE4Fk2.jpg"
+    },
+    {
+        "speaker": "Nathalia Rus",
+        "tagline": "Co-Founder & Engineer at Custodian",
+        "photo": "https://sessionize.com/image/ef43-200o200o2-D7bid6BFypJ1aX91CcCrx2.png"
+    },
+    {
+        "speaker": "Carly Richmond",
+        "tagline": "Developer Advocate @ Elastic",
+        "photo": "https://sessionize.com/image/14f7-200o200o2-paMDMz7xzMWUjuQDYsf33L.jpg"
+    },
+    {
+        "speaker": "Kent C. Dodds",
+        "tagline": "Software Engineer and Educator, Kent C. Dodds Tech LLC",
+        "photo": "https://sessionize.com/image/7273-200o200o2-BMT43t5kd2U1XstaNnM6Ax.jpg"
+    },
+    {
+        "speaker": "Atila Fassina",
+        "tagline": "Developer Experience Engineer, Xata",
+        "photo": "https://sessionize.com/image/3961-200o200o2-JvaQB7w969tvXiedajbiCh.png"
+    },
+    {
+        "speaker": "Shai Reznik",
+        "tagline": "Chief Crazy Officer at HiRez.io",
+        "photo": "https://sessionize.com/image/d33e-200o200o2-32PBXjzpTeWfHYagFnecHP.jpg"
+    },
+    {
+        "speaker": "Jonathan Hillen",
+        "tagline": "Software Engineer II @ Garmin",
+        "photo": "https://sessionize.com/image/508c-200o200o2-b9-fbb8-4dab-a587-9a4b46ae05c2.611697a3-25ef-4283-88e4-a5e1f8b3b627.jpg"
+    },
+    {
+        "speaker": "Yaqueline Hoyos",
+        "tagline": "Frontend Engineer at deepset",
+        "photo": "https://sessionize.com/image/fd7e-200o200o2-43d8cc92-82bb-4930-b365-fa97ec96377e.jpg"
+    },
+    {
+        "speaker": "Santosh Yadav",
+        "tagline": "Google Developer Expert Angular, GitHub Star",
+        "photo": "https://sessionize.com/image/c7eb-200o200o2-41-c780-4122-82c4-b430357a6858.ab8bdf02-c796-452a-b28d-9e620ccc2b3e.jpg"
+    },
+    {
+        "speaker": "Austin Gil",
+        "tagline": "Senior Developer Advocate at Akamai",
+        "photo": "https://sessionize.com/image/3228-200o200o2-fsKEZaovLa69Y2BpnaufZn.png"
+    },
+    {
+        "speaker": "Alisa Duncan",
+        "tagline": "Senior Developer Advocate at Okta",
+        "photo": "https://sessionize.com/image/2047-200o200o2-GBA7yccZwvsc9a2DrpHypG.jpg"
+    },
+    {
+        "speaker": "Oyemade Oyemaja",
+        "tagline": "Software Architect",
+        "photo": "https://sessionize.com/image/103c-200o200o2-JsNMSKwhqNYF7uxRGeN8CW.jpg"
+    },
+    {
+        "speaker": "Winston Hearn",
+        "tagline": "Sr. PM, DevEx, Honeycomb",
+        "photo": "https://sessionize.com/image/a56c-200o200o2-w1xPFCRbGqHBhLyNnK4Hrn.jpg"
+    },
+    {
+        "speaker": "Erik Rasmussen",
+        "tagline": "American TypeScript Slinger living in Spain 🇪🇸",
+        "photo": "https://sessionize.com/image/7d9f-200o200o2-BkYRotjiAZTyGvuwDceux2.jpg"
+    },
+    {
+        "speaker": "Patrick Brosset",
+        "tagline": "Senior Product Manager at Microsoft",
+        "photo": "https://sessionize.com/image/fc72-200o200o2-KTHKzNymcxURu9bAvWMeEk.jpg"
+    },
+    {
+        "speaker": "Chris DeMars",
+        "tagline": "Developer Advocate at Split",
+        "photo": "https://sessionize.com/image/b1a5-200o200o2-3g2Zbei96xuhcNUQf9X35e.jpg"
+    },
+    {
+        "speaker": "Team + Emcees",
+        "tagline": "",
+        "photo": "https://sessionize.com/image/05a3-200o200o2-Snh199j3t1ZaDDYSdUKEd9.png"
+    }
+]

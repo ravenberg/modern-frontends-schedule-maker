@@ -79,7 +79,7 @@ export default function Index({}) {
                                                     </button>
                                                 </td>}
                                                 <td className='title' title={item.description}>
-                                                    <Link to={`/talks/${item.title}`}>{item.title}</Link>
+                                                    <Link to={`/talks/${item.title}`}><span dangerouslySetInnerHTML={{__html: item.title}} /></Link>
                                                 </td>
                                                 <td className='speaker'>{item.speaker}</td>
                                                 <td className='room'>{item.room}</td>

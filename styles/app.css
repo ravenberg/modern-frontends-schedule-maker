@@ -7,7 +7,7 @@ body {
 main {
     max-width: 900px;
     margin: 0 auto;
-    padding-bottom: 50px;
+    padding: 0 16px 50px 16px;
 }
 
 a {
