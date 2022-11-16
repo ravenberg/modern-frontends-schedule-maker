@@ -31,8 +31,8 @@ export default function () {
                 <img
                     style={{
                         borderRadius: '50%',
-                        width: '30%',
-                        height: '30%',
+                        width: '110px',
+                        height: '110px',
                         paddingRight: '8px'
                     }}
                     src={talk.speakerPhoto}
