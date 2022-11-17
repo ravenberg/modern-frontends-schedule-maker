@@ -1,6 +1,6 @@
 import talks from '../data/talks.json';
 import { Link, useLoaderData } from '@remix-run/react';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import useFavorites from '~/hooks/useFavorites';
 import { buttonStyles } from '../../styles/styles';
 
