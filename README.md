@@ -1,6 +1,9 @@
-# Welcome to Remix!
+# Modern frontends schedule maker
 
-- [Remix Docs](https://remix.run/docs)
+This is a special little app that [a friend](https://github.com/DaveBitter) and I hacked together in the train on our way to London to visit the Mondern Frontends Live 2022 conference.
+
+During the conference days I had introduced some additional features and fixed some bugs. But now the conference is over and time to say goodbye to this fun little project.
+
 
 ## Development
 
