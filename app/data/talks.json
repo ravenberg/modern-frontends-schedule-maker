@@ -372,7 +372,7 @@
     },
     {
         "speaker": "Team + Emcees",
-        "title": "OPENING / WELCOME",
+        "title": "OPENING WELCOME",
         "room": "ADA LOVELACE",
         "time": "Fri 09:15 - 09:30"
     },
@@ -434,7 +434,7 @@
     },
     {
         "speaker": "Jeremy Meiss",
-        "title": "Demystifying DevOps and CI/CD",
+        "title": "Demystifying DevOps and CI-CD",
         "description": "While it seems that every week new terms appear to describe DevOps tools, segments, ideas, practices, etc., are they really new? And what is DevOps, anyways? In this talk Jeremy will first break down DevOps, its history, and why it matters. Then he'll dive deeper into Continuous Integration and Continuous Deployment (CI/CD) concepts, and why it can be the key to becoming a high performing team.",
         "room": "ADA LOVELACE",
         "time": "Fri 11:00 - 11:55"

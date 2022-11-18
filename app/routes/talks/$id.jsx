@@ -21,7 +21,7 @@ export const loader = ({ params }) => {
     }
 
     talk.speakerDetails = speaker;
-    console.log(speaker);
+
     return {
         talk
     };
